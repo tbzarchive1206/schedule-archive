@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="description" content="Fan-made THE BOYZ schedule archive">
+  <meta name="theme-color" content="#2449d8">
+  <title>THE BOYZ SCHEDULE</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="brand" href="#top"><span class="brand-solid">THE BOYZ</span><span class="brand-outline">SCHEDULE</span></a>
+  <nav class="main-nav" aria-label="Main navigation">
+    <button class="nav-link active" data-section="calendar" data-i18n="calendar">Calendar</button>
+    <button class="nav-link" data-section="list" data-i18n="listView">List view</button>
+  </nav>
+  <div class="header-tools"><button id="languageToggle" class="lang-btn">KO</button></div>
+</header>
+
+<main id="top" class="page">
+  <section class="hero">
+    <div><p class="eyebrow" data-i18n="eyebrow">Fan-made schedule archive</p><h1 data-i18n="title">THE BOYZ SCHEDULE</h1><p class="hero-copy" data-i18n="heroCopy">Group and solo activities in one searchable calendar.</p></div>
+    <div class="month-count"><strong id="eventCount">0</strong><span data-i18n="eventsThisMonth">events this month</span></div>
+  </section>
+
+  <section class="panel toolbar">
+    <div class="period-controls"><button id="prevBtn" class="square-btn">‹</button><button id="nextBtn" class="square-btn">›</button><h2 id="periodLabel"></h2><button id="todayBtn" class="soft-btn" data-i18n="today">Today</button></div>
+    <div class="view-tabs"><button class="view-tab active" data-view="month" data-i18n="month">Month</button><button class="view-tab" data-view="week" data-i18n="week">Week</button><button class="view-tab" data-view="day" data-i18n="day">Day</button></div>
+  </section>
+
+  <section class="panel filters">
+    <span class="filter-label" data-i18n="filters">Filters</span>
+    <details class="filter-dropdown" id="memberFilter"><summary><span data-i18n="allMembers">All members</span><b>⌄</b></summary><div class="dropdown-menu" id="memberOptions"></div></details>
+    <details class="filter-dropdown" id="typeFilter"><summary><span data-i18n="allTypes">All event types</span><b>⌄</b></summary><div class="dropdown-menu" id="typeOptions"></div></details>
+    <label class="search"><span>⌕</span><input id="searchInput" type="search" data-i18n-placeholder="search" placeholder="Search events"></label>
+    <button id="resetBtn" class="link-btn" data-i18n="reset">Reset</button>
+  </section>
+
+  <section id="calendarSection"><div id="calendar" class="panel calendar"></div></section>
+  <section id="listSection" hidden>
+    <div class="panel list-head"><div><p class="eyebrow" data-i18n="allSchedules">All schedules</p><h2 data-i18n="scheduleList">Schedule list</h2></div><label><span data-i18n="sort">Sort</span><select id="sortSelect"><option value="asc" data-i18n="oldest">Oldest first</option><option value="desc" data-i18n="newest">Newest first</option></select></label></div>
+    <div id="eventList" class="panel event-list"></div><div class="list-more-wrap"><button id="seeMoreBtn" class="soft-btn list-more-btn" type="button" hidden>See more</button></div>
+  </section>
+
+  <section class="panel upcoming"><div class="section-title"><div><p class="eyebrow" data-i18n="next">Next</p><h2 data-i18n="upcoming">Upcoming events</h2></div><button id="viewAllBtn" class="link-btn" data-i18n="viewAll">View all</button></div><div id="upcomingList" class="upcoming-grid"></div></section>
+  <section class="panel legend"><h2 data-i18n="legend">Event type legend</h2><div id="legendList" class="legend-list"></div></section>
+</main>
+
+<dialog id="eventDialog"><form method="dialog" class="dialog-close-form"><button id="dialogClose" class="dialog-close" type="submit" value="close" aria-label="Close event details">×</button></form><div id="dialogBody"></div></dialog>
+<footer><div class="footer-brand"><span class="brand-solid">THE BOYZ</span><span class="brand-outline">SCHEDULE</span></div><p>© <span id="year"></span> THE BOYZ SCHEDULE · FAN-MADE ARCHIVE</p></footer>
+<script src="data/events.js"></script><script src="app.js"></script>
+</body></html>
