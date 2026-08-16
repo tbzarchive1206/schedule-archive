@@ -80,37 +80,60 @@ window.SCHEDULE_EVENTS=[
 {id:"2026-07-15-idolradio",title:{en:"MBC Idol Radio with RESCENE | EP#238 ",ko:"MBC 아이돌 라디오 리센느 | EP#238"},date:"2026-07-15",time:"20:00",members:["sunwoo"],types:["radio"],thumbnail:"assets/events/idolradiosunwoo.jpg",location:"",description:{en:"MBC Idol Radio with RESCENE | EP#238",ko:"MBC 아이돌 라디오 리센느 | EP#238"},link:"https://www.youtube.com/live/BVWPIJCl43c"},
   
 {id:"2026-07-16-my-idol",title:{en:"My Debut, My Idol EP1 & EP2",ko:"최애데뷔 1-2회"},date:"2026-07-16",time:"23:30",endTime:"",members:["q"],types:["tv"],thumbnail:"assets/events/myidolmydebut.jpg",location:"MBC M",description:{en:"My Debut, My Idol EP1",ko:"최애데뷔 1회"},link:""},
+  
 {id:"2026-07-17-showcase-seoul",title:{en:"More Than Words Showcase in Seoul",ko:"More Than Words Showcase in Seoul"},date:"2026-07-17",time:"",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Cube Convention Center, Seoul",description:{en:"JACOB More Than Words Showcase in Seoul",ko:"JACOB More Than Words Showcase in Seoul"},link:""},
+  
 {id:"2026-07-19-juyeon-fanmeeting",title:{en:"1st Fanmeeting 'Youth, by JUYEON'",ko:"'Youth, by JUYEON' 팬미팅"},date:"2026-07-19",time:"",members:["juyeon"],types:["fanmeeting"],thumbnail:"assets/events/juyeon.jpg",location:"Yonsei University Main Auditorium, Seoul",description:{en:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Seoul.",ko:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Seoul."},link:""},
   
 {id:"2026-07-19-eric-fanmeeting",title:{en:"E:ternity Fanmeeting in Beijing",ko:"E:ternity Fanmeeting in Beijing"},date:"2026-07-19",time:"17:00",members:["eric"],types:["fanmeeting"],thumbnail:"assets/events/eric.jpg",location:"Beijing",description:{en:"Eric E:ternity Fanmeeting in Beijing",ko:"E:ternity Fanmeeting in Beijing"},link:""},
   
 {id:"2026-07-22-idolradio",title:{en:"MBC Idol Radio with VAYONN | EP#239 ",ko:"MBC 아이돌 라디오 베이온 | EP#239"},date:"2026-07-22",time:"20:00",members:["eric"],types:["radio"],thumbnail:"assets/events/idolradioeric.jpg",location:"",description:{en:"MBC Idol Radio with VAYONN | EP#239",ko:"MBC 아이돌 라디오 베이온 | EP#239"},link:"https://www.youtube.com/live/OTFAyoD1d7Y?si=kb9Mh6Si9x8LTo0k"},
+  
 {id:"2026-07-24-my-idol",title:{en:"My Debut, My Idol EP3 & EP 4",ko:"최애데뷔 3-4회"},date:"2026-07-24",time:"23:30",endTime:"",members:["q"],types:["tv"],thumbnail:"assets/events/myidolmydebut.jpg",location:"MBC M",description:{en:"My Debut, My Idol EP3 & EP4",ko:"최애데뷔 3-4회"},link:""},
+  
 {id:"2026-07-25-ninetofivespecial",title:{en:"NINE TO FIVE: Shanghai",ko:"NINE TO FIVE: Shanghai"},date:"2026-07-25",time:"16:00",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Shanghai",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Shanghai'",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Shanghai"},link:""},
+  
 {id:"2026-07-28-idoldispatchwork",title:{en:"Idol Dispatch Work EP7",ko:"아이돌 파견근무 EP7"},date:"2026-07-28",time:"00:40",members:["hyunjae"],types:["tv"],thumbnail:"assets/events/idoldispatchwork.jpg",location:"럭키 팩토리 @ Youtube",description:{en:"Idol Dispatch Work EP7",ko:"아이돌 파견근무 EP7"},link:"https://www.youtube.com/watch?v=PDT-7G-0V30&t=68s"},
+  
 {id:"2026-07-28-idolradio",title:{en:"MBC Idol Radio with LUN8 | EP#240 ",ko:"MBC 아이돌 라디오 루네이트 | EP#240"},date:"2026-07-28",time:"20:00",members:["sunwoo"],types:["radio"],thumbnail:"assets/events/idolradiosunwoo.jpg",location:"",description:{en:"MBC Idol Radio with LUN8 | EP#240",ko:"MBC 아이돌 라디오 루네이트 | EP#240"},link:"https://www.youtube.com/live/rW32yXH8q1E"},
+  
 {id:"2026-07-31-showcase-osaka",title:{en:"More Than Words Showcase in Osaka",ko:"제이콥 More Than Words 쇼케이스 오사카"},date:"2026-07-31",time:"18:00",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Sunhall",description:{en:"JACOB More Than Words Showcase in Osaka",ko:"제이콥 More Than Words 쇼케이스 인 오사카"},link:""},
 
 {id:"2026-07-31-telepathy-kitchen",title:{en:"Telepathy Kitchen EP3 with Hyunjae",ko:"텔레파시 키친 EP.3"},date:"2026-07-31",time:"",members:["hyunjae"],types:["tv"],thumbnail:"https://img.youtube.com/vi/0Oxex5HWJVw/maxresdefault.jpg",location:"지글지글클럽 @ Youtube",description:{en:"Telepathy Kitchen EP3 with Hyunjae",ko:"텔레파시 키친 EP.3"},link:"https://www.youtube.com/watch?v=0Oxex5HWJVw"},
   
 {id:"2026-08-02-showcase-tokyo",title:{en:"More Than Words Showcase in Tokyo",ko:"제이콥 More Than Words 쇼케이스 도쿄"},date:"2026-08-02",time:"18:00",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Reny Alpha, Akabane, Tokyo",description:{en:"JACOB More Than Words Showcase in Tokyo",ko:"제이콥 More Than Words 쇼케이스 인 도쿄"},link:""},
+  
 {id:"2026-08-02-juyeon-fanmeeting",title:{en:"1st Fanmeeting 'Youth, by JUYEON' in Shanghai",ko:"'Youth, by JUYEON' 팬미팅"},date:"2026-08-02",time:"",members:["juyeon"],types:["fanmeeting"],thumbnail:"assets/events/juyeonshanghai.jpg",location:"Shanghai",description:{en:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Shanghai.",ko:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Shanghai."},link:""},
+  
 {id:"2026-08-05-idolradio",title:{en:"MBC Idol Radio with POW | EP#241 ",ko:"MBC 아이돌 라디오 파우 | EP#241"},date:"2026-08-05",time:"20:00",members:["eric"],types:["radio"],thumbnail:"assets/events/idolradioeric.jpg",location:"",description:{en:"MBC Idol Radio with POW | EP#241 ",ko:"MBC 아이돌 라디오 파우 | EP#241"},link:"https://www.youtube.com/watch?v=34gHHgX8wxA"},
+  
 {id:"2026-08-12-idolradio",title:{en:"MBC Idol Radio with KISS OF LIFE | EP#242 ",ko:"MBC 아이돌 라디오 키스오브라이프 | EP#242"},date:"2026-08-12",time:"20:00",members:["sunwoo"],types:["radio"],thumbnail:"assets/events/idolradiosunwoo.jpg",location:"",description:{en:"MBC Idol Radio with KISS OF LIFE | EP#242 ",ko:"MBC 아이돌 라디오 키스오브라이프 | EP#242"},link:""},
+  
 {id:"2026-08-19-idolradio",title:{en:"MBC Idol Radio with TBA | EP#242 ",ko:"MBC 아이돌 라디오 TBA | EP#242"},date:"2026-08-19",time:"20:00",members:["eric"],types:["radio"],thumbnail:"assets/events/idolradioeric.jpg",location:"",description:{en:"MBC Idol Radio with TBA | EP#243 ",ko:"MBC 아이돌 라디오 TBA | EP#243"},link:""},
+  
 {id:"2026-08-22-ninetofive-special",title:{en:"NINE TO FIVE: AWARD CEREMONY with THE B in Beijing",ko:"NINE TO FIVE: AWARD CEREMONY with THE B in Beijing"},date:"2026-08-22",time:"",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Beijing",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE: AWARD CEREMONY with THE B in Beijing'.",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE: AWARD CEREMONY with THE B in Beijing'."},link:""},
+  
 {id:"2026-08-22-showcase-jakarta",title:{en:"More Than Words Showcase in Jakarta",ko:"More Than Words Showcase in Jakarta"},date:"2026-08-22",time:"",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"CGV GRAND INDONESIA",description:{en:"JACOB More Than Words Showcase in Jakarta",ko:"JACOB More Than Words Showcase in Jakarta"},link:""},
+  
 {id:"2026-08-26-idolradio",title:{en:"MBC Idol Radio with TBA | EP#244 ",ko:"MBC 아이돌 라디오 TBA | EP#244"},date:"2026-08-26",time:"20:00",members:["sunwoo"],types:["radio"],thumbnail:"assets/events/idolradiosunwoo.jpg",location:"",description:{en:"MBC Idol Radio with TBA | EP#244 ",ko:"MBC 아이돌 라디오 TBA | EP#244"},link:""},
-{id:"2026-08-29-younghoon-fanmeeting",title:{en:"Younghoon Fanmeeting in Seoul",ko:"영훈 팬미팅 서울"},date:"2026-08-29",time:"",members:["younghoon"],types:["fanmeeting"],thumbnail:"assets/events/younghoon.jpg",location:"TBA",description:{en:"Younghoon Fanmeeting in Seoul. Announced on birthday live, more details TBA",ko:"영훈 팬미팅 서울"},link:""},
+  
+{id:"2026-08-29-younghoon-fanmeeting",title:{en:"2026 Younghoon Fanmeeting <泳: Flow To You>",ko:"2026 영훈 팬미팅 <泳: Flow To You>"},date:"2026-08-29",time:"",members:["younghoon"],types:["fanmeeting"],thumbnail:"",location:"Yonsei Main Auditorium",description:{en:"2026 Younghoon Fanmeeting <泳: Flow To You>. 1st round at 2PM, 2nd sround at 7PM.",ko:"2026 영훈 팬미팅 <泳: Flow To You>. 2026 년 8월 29일 (토) 2PM, 7PM (KST) / 2 회 공연"},link:"http://namooactors.com/bbs/board.php?bo_table=notice&wr_id=175&page=0&sca=&sfl=&stx=&sst=&sod=&spt=0&ckattempt=1"},
+  
 {id:"2026-08-30-juyeon-fanmeeting",title:{en:"1st Fanmeeting 'Youth, by JUYEON' in Yokohama",ko:"'Youth, by JUYEON' 팬미팅 인 요코하마"},date:"2026-08-30",time:"",members:["juyeon"],types:["fanmeeting"],thumbnail:"assets/events/juyeonyokohama.jpg",location:"KT Zepp Yokohama, Japan",description:{en:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Yokohama.",ko:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in Yokohama."},link:""},
+  
 {id:"2026-09-02-freechild-release",title:{en:"FREECHILD Album Release",ko:"FREECHILD 앨범 발매"},date:"2026-09-02",time:"",members:["kevin"],types:["album"],thumbnail:"assets/events/freechild.jpg",location:"",description:{en:" Kevin's FREECHILD Album Release",ko:"케빈 FREECHILD 앨범 발매"},link:""},
+
 {id:"2026-09-05-juyeon-fanmeeting",title:{en:"1st Fanmeeting 'Youth, by JUYEON' in HongKong",ko:"'Youth, by JUYEON' 팬미팅 인 홍콩"},date:"2026-09-05",time:"",members:["juyeon"],types:["fanmeeting"],thumbnail:"assets/events/juyeonhongkong.jpg",location:"HongKong",description:{en:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in HongKong.",ko:"Juyeon 1st Fanmeeting Tour in Asia. Youth, by JUYEON in HongKong."},link:""},
+
+{id:"2026-09-06-freechild-event",title:{en:"Kevin's Event",ko:"케빈 이벤트"},date:"2026-09-06",time:"",members:["kevin"],types:["other"],thumbnail:"assets/events/kevin.jpg",location:"",description:{en:"Kevin's Event. More details TBA",ko:"케빈 이벤트"},link:""},
 
 {id:"2026-09-16-sangyeon-discharge",title:{en:"Sangyeon Military Discharge",ko:"상연 전역"},date:"2026-09-16",time:"",endTime:"",members:["sangyeon"],types:["other"],thumbnail:"assets/events/sangyeon.jpg",location:"",description:{en:"Sangyeon Military Discharge",ko:"상연 전역"},link:""},
   
 {id:"2026-09-09-hyunjae-fansign",title:{en:"HYUNJAE x MAISON 21G Fansign event",ko:"HYUNJAE x MAISON 21G Fansign event"},date:"2026-09-09",time:"",endTime:"",members:["hyunjae"],types:["fansign"],thumbnail:"assets/events/maison21g.jpg",location:"Atelier cheongdam",description:{en:"HYUNJAE x MAISON 21G Fansign event",ko:"HYUNJAE x MAISON 21G Fansign event"},link:""},
+
 {id:"2026-09-19-showcase-bangkok",title:{en:"More Than Words Showcase in Bangkok",ko:"More Than Words Showcase in Bangkok"},date:"2026-09-19",time:"18:00",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Phenix Auditorium Hall",description:{en:"JACOB More Than Words Showcase in Bangkok",ko:"JACOB More Than Words Showcase in Bangkok"},link:""},
+
 {id:"2026-09-21-ninetofive-special",title:{en:"NINE TO FIVE: Tokyo",ko:"NINE TO FIVE: Tokyo"},date:"2026-09-21",time:"",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Tokyo",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo'",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo"},link:""},
+
 {id:"2026-10-24-theafestival",title:{en:"The A Festival in Paris",ko:"The A Festival in Paris"},date:"2026-10-24",time:"",members:["jacob"],types:["performance"],thumbnail:"assets/events/jacob.jpg",location:"Paris Event Center",description:{en:"Jacob at The A Festival in Paris.",ko:"Jacob at The A Festival in Paris."},link:""},
 ];
