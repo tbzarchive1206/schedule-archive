@@ -46,12 +46,3 @@ Obsługiwane typy:
 - `image` — zdjęcie z opcjonalnym podpisem.
 
 Bloki można mieszać i powtarzać. Starsze pole `description` nadal działa jako prosty opis, gdy `content` nie istnieje.
-
-## Mobilny kalendarz
-
-Na ekranach do 700 px szerokości wszystkie siedem kolumn miesiąca jest zawsze widocznych. W komórce dnia wyświetlane są maksymalnie dwa bardzo kompaktowe wydarzenia; pełna lista danego dnia jest dostępna w widoku dnia.
-
-
-## Szybkie przechodzenie do starszej daty
-
-Na pasku widoku kliknij ikonę kalendarza obok przycisku **Today**. Wybierz konkretny dzień, miesiąc i rok, a następnie kliknij **Go to date**. Funkcja pozwala szybko przejść także do wydarzeń sprzed kilku lat.
