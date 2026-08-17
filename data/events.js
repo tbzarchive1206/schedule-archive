@@ -133,6 +133,8 @@ window.SCHEDULE_EVENTS=[
 
 {id:"2026-09-19-showcase-bangkok",title:{en:"More Than Words Showcase in Bangkok",ko:"More Than Words Showcase in Bangkok"},date:"2026-09-19",time:"18:00",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Phenix Auditorium Hall",description:{en:"JACOB More Than Words Showcase in Bangkok",ko:"JACOB More Than Words Showcase in Bangkok"},link:""},
 
+{id:"2026-09-19-fansign-bangkok",title:{en:"More Than Words Fansign in Bangkok",ko:"More Than Words Fansign in Bangkok"},date:"2026-09-19",time:"",endTime:"",members:["jacob"],types:["fansign"],thumbnail:"assets/events/moretanwords.jpg",location:"Phenix Auditorium Hall",description:{en:"JACOB More Than Words Fansign in Bangkok - Offline & Online",ko:"JACOB More Than Words Fansign in Bangkok - Offline & Online. 50 winners for offline fansign. 15 winners for online fansign"},link:"https://x.com/JPlanGlobal/status/2089306667141697712"},
+
 {id:"2026-09-21-ninetofive-special",title:{en:"NINE TO FIVE: Tokyo",ko:"NINE TO FIVE: Tokyo"},date:"2026-09-21",time:"",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Tokyo",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo'",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo"},link:""},
 
 {id:"2026-10-24-theafestival",title:{en:"The A Festival in Paris",ko:"The A Festival in Paris"},date:"2026-10-24",time:"",members:["jacob"],types:["performance"],thumbnail:"assets/events/jacob.jpg",location:"Paris Event Center",description:{en:"Jacob at The A Festival in Paris.",ko:"Jacob at The A Festival in Paris."},link:""},
