@@ -129,7 +129,7 @@ window.SCHEDULE_EVENTS=[
 
 {id:"2026-09-12-hyunjae-fanmeeting",title:{en:"2026 HYUNJAE 1st FANMEETING [The Present for you]",ko:"'2026 HYUNJAE 1st FANMEETING [The Present for you]"},date:"2026-09-12",time:"14:00",members:["hyunjae"],types:["fanmeeting"],thumbnail:"https://pbs.twimg.com/media/HP-WeAdbsAEVEIt?format=jpg&name=large",location:"코엑스아티움 (coexartium)",description:{en:"2026 HYUNJAE 1st FANMEETING [The Present for you]",ko:"2026 HYUNJAE 1st FANMEETING [The Present for you]"},link:"https://x.com/Pledge2026/status/2089578303439126607"},
 
-{id:"2026-09-16-sangyeon-discharge",title:{en:"Sangyeon Military Discharge",ko:"상연 전역"},date:"2026-09-16",time:"",endTime:"",members:["sangyeon"],types:["other"],thumbnail:"assets/events/sangyeon.jpg",location:"",description:{en:"Sangyeon Military Discharge",ko:"상연 전역"},link:""},
+{id:"2026-09-16-sangyeon-discharge",title:{en:"Sangyeon Military Discharge",ko:"상연 전역"},date:"2026-09-16",time:"",endTime:"",members:["sangyeon"],types:["other"],thumbnail:"https://theboyz.jp/images/4/cf7/186af1db4c9b0f3dad58452c3456f-11.jpg",location:"",description:{en:"Sangyeon Military Discharge",ko:"상연 전역"},link:""},
   
 {id:"2026-09-09-hyunjae-fanmeetup",title:{en:"HYUNJAE x MAISON 21G Fan Meet Up Event",ko:"HYUNJAE x MAISON 21G Fan Meet Up Event"},date:"2026-09-09",time:"18:30",endTime:"20:00",members:["hyunjae"],types:["fansign"],thumbnail:"assets/events/maison21g.jpg",location:"Atelier cheongdam (메종 21G 아틀리에 청담점)",description:{en:"HYUNJAE x MAISON 21G Fan Meet Up Event",ko:"HYUNJAE x MAISON 21G Fan Meet Up Event"},link:"https://www.instagram.com/p/DcKiqROCRzb/"},
 
