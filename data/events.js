@@ -109,7 +109,7 @@ window.SCHEDULE_EVENTS=[
   
 {id:"2026-08-12-idolradio",title:{en:"MBC Idol Radio with KISS OF LIFE | EP#242 ",ko:"MBC 아이돌 라디오 키스오브라이프 | EP#242"},date:"2026-08-12",time:"20:00",members:["sunwoo"],types:["radio"],thumbnail:"assets/events/idolradiosunwoo.jpg",location:"",description:{en:"MBC Idol Radio with KISS OF LIFE | EP#242 ",ko:"MBC 아이돌 라디오 키스오브라이프 | EP#242"},link:"https://t.co/SyXoTXiItu"},
   
-{id:"2026-08-19-idolradio",title:{en:"MBC Idol Radio with OURBIRTHDAY | EP#242 ",ko:"MBC 아이돌 라디오 아워벌스데이 | EP#243"},date:"2026-08-19",time:"20:00",members:["eric"],types:["radio"],thumbnail:"assets/events/idolradioeric.jpg",location:"",description:{en:"MBC Idol Radio with OURBIRTHDAY | EP#243 ",ko:"MBC 아이돌 라디오 아워벌스데이 | EP#243"},link:""},
+{id:"2026-08-19-idolradio",title:{en:"MBC Idol Radio with OURBIRTHDAY | EP#243 ",ko:"MBC 아이돌 라디오 아워벌스데이 | EP#243"},date:"2026-08-19",time:"20:00",members:["eric"],types:["radio"],thumbnail:"assets/events/idolradioeric.jpg",location:"",description:{en:"MBC Idol Radio with OURBIRTHDAY | EP#243 ",ko:"MBC 아이돌 라디오 아워벌스데이 | EP#243"},link:"https://www.youtube.com/live/qBk26ey_g-M"},
   
 {id:"2026-08-22-ninetofive-special",title:{en:"NINE TO FIVE: AWARD CEREMONY with THE B in Beijing",ko:"NINE TO FIVE: AWARD CEREMONY with THE B in Beijing"},date:"2026-08-22",time:"",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Beijing",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE: AWARD CEREMONY with THE B in Beijing'.",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE: AWARD CEREMONY with THE B in Beijing'."},link:""},
   
@@ -127,9 +127,11 @@ window.SCHEDULE_EVENTS=[
 
 {id:"2026-09-06-freechild-event",title:{en:"Kevin's Event",ko:"케빈 이벤트"},date:"2026-09-06",time:"",members:["kevin"],types:["other"],thumbnail:"assets/events/kevin.jpg",location:"",description:{en:"Kevin's Event. More details TBA",ko:"케빈 이벤트"},link:""},
 
+{id:"2026-09-12-hyunjae-fanmeeting",title:{en:"2026 HYUNJAE 1st FANMEETING [The Present for you]",ko:"'2026 HYUNJAE 1st FANMEETING [The Present for you]"},date:"2026-09-12",time:"14:00",members:["hyunjae"],types:["fanmeeting"],thumbnail:"https://pbs.twimg.com/media/HP-WeAdbsAEVEIt?format=jpg&name=large",location:"코엑스아티움 (coexartium)",description:{en:"2026 HYUNJAE 1st FANMEETING [The Present for you]",ko:"2026 HYUNJAE 1st FANMEETING [The Present for you]"},link:"https://x.com/Pledge2026/status/2089578303439126607"},
+
 {id:"2026-09-16-sangyeon-discharge",title:{en:"Sangyeon Military Discharge",ko:"상연 전역"},date:"2026-09-16",time:"",endTime:"",members:["sangyeon"],types:["other"],thumbnail:"assets/events/sangyeon.jpg",location:"",description:{en:"Sangyeon Military Discharge",ko:"상연 전역"},link:""},
   
-{id:"2026-09-09-hyunjae-fansign",title:{en:"HYUNJAE x MAISON 21G Fansign event",ko:"HYUNJAE x MAISON 21G Fansign event"},date:"2026-09-09",time:"",endTime:"",members:["hyunjae"],types:["fansign"],thumbnail:"assets/events/maison21g.jpg",location:"Atelier cheongdam",description:{en:"HYUNJAE x MAISON 21G Fansign event",ko:"HYUNJAE x MAISON 21G Fansign event"},link:""},
+{id:"2026-09-09-hyunjae-fanmeetup",title:{en:"HYUNJAE x MAISON 21G Fan Meet Up Event",ko:"HYUNJAE x MAISON 21G Fan Meet Up Event"},date:"2026-09-09",time:"18:30",endTime:"20:00",members:["hyunjae"],types:["fansign"],thumbnail:"assets/events/maison21g.jpg",location:"Atelier cheongdam (메종 21G 아틀리에 청담점)",description:{en:"HYUNJAE x MAISON 21G Fan Meet Up Event",ko:"HYUNJAE x MAISON 21G Fan Meet Up Event"},link:"https://www.instagram.com/p/DcKiqROCRzb/"},
 
 {id:"2026-09-19-showcase-bangkok",title:{en:"More Than Words Showcase in Bangkok",ko:"More Than Words Showcase in Bangkok"},date:"2026-09-19",time:"18:00",endTime:"",members:["jacob"],types:["showcase"],thumbnail:"assets/events/moretanwords.jpg",location:"Phenix Auditorium Hall",description:{en:"JACOB More Than Words Showcase in Bangkok",ko:"JACOB More Than Words Showcase in Bangkok"},link:""},
 
