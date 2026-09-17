@@ -308,7 +308,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-09-13-hyunjae-fanmeeting-a-present-for-you",
+  "title": {
+    "en": "Hyunjae Fanmeeting [A Present For You]",
+    "ko": "현재 팬미팅 [A Present For You]"
+  },
+  "date": "2026-09-13",
+  "time": "13:00",
+  "endTime": "",
+  "members": [
+    "hyunjae"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-09-13-hyunjae-fanmeeting-a-present-for-you.jpg",
+  "location": "coexartium",
+  "description": {
+    "en": "Hyunjae Fanmeeting [A Present For You]",
+    "ko": "현재 팬미팅 [A Present For You]"
+  },
+  "link": ""
+},
 ];
+
 
 
 
