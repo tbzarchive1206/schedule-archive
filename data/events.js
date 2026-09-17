@@ -332,7 +332,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-09-13-eric-e-ternity-fanmeeting-in-qingdao",
+  "title": {
+    "en": "Eric 'E:ternity\" Fanmeeting in Qingdao",
+    "ko": "Eric 'E:ternity\" Fanmeeting in Qingdao"
+  },
+  "date": "2026-09-13",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-09-13-eric-e-ternity-fanmeeting-in-qingdao.jpg",
+  "location": "",
+  "description": {
+    "en": "Eric 'E:ternity\" Fanmeeting in Qingdao",
+    "ko": "Eric 'E:ternity\" Fanmeeting in Qingdao"
+  },
+  "link": ""
+},
 ];
+
 
 
 
