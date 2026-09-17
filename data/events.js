@@ -188,6 +188,31 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DdVYJQfHCQa/"
 },
+
+{
+  "id": "2026-09-16-mbc-idol-radio-with-the-boyz-ep-248",
+  "title": {
+    "en": "MBC Idol Radio with THE BOYZ | EP 248",
+    "ko": "MBC 아이돌 라디오 더보이즈 | EP 248"
+  },
+  "date": "2026-09-16",
+  "time": "23:30",
+  "endTime": "",
+  "members": [
+    "the-boyz"
+  ],
+  "types": [
+    "radio"
+  ],
+  "thumbnail": "assets/events/2026-09-16-mbc-idol-radio-with-the-boyz-ep-248.jpg",
+  "location": "",
+  "description": {
+    "en": "MBC Idol Radio with THE BOYZ | EP 248",
+    "ko": "MBC 아이돌 라디오 더보이즈 | EP 248"
+  },
+  "link": ""
+},
 ];
+
 
 
