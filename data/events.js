@@ -356,7 +356,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-09-29-kevin-ena-kpop-up-chart-show",
+  "title": {
+    "en": "KEVIN - ENA 'KPOP UP CHART SHOW'",
+    "ko": "ENA 케이팝업 차트쇼"
+  },
+  "date": "2026-09-29",
+  "time": "17:40",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "performance"
+  ],
+  "thumbnail": "assets/events/2026-09-29-kevin-ena-kpop-up-chart-show.jpg",
+  "location": "",
+  "description": {
+    "en": "KEVIN - ENA 'KPOP UP CHART SHOW'",
+    "ko": "ENA 케이팝업 차트쇼"
+  },
+  "link": "https://x.com/ena_kpopupshow/status/2098245483919798407"
+},
 ];
+
 
 
 
