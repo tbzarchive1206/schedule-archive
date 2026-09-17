@@ -380,7 +380,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/ena_kpopupshow/status/2098245483919798407"
 },
+
+{
+  "id": "2026-09-19-1st-fanmeeting-youth-by-juyeon-in-beijing",
+  "title": {
+    "en": "1st Fanmeeting 'Youth, by JUYEON' in Beijing",
+    "ko": "1st Fanmeeting 'Youth, by JUYEON' in Beijing"
+  },
+  "date": "2026-09-19",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "juyeon"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-09-19-1st-fanmeeting-youth-by-juyeon-in-beijing.jpg",
+  "location": "",
+  "description": {
+    "en": "1st Fanmeeting 'Youth, by JUYEON' in Beijing",
+    "ko": "1st Fanmeeting 'Youth, by JUYEON' in Beijing"
+  },
+  "link": ""
+},
 ];
+
 
 
 
