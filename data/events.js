@@ -284,7 +284,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=zeW5QMtRWxs"
 },
+
+{
+  "id": "2026-09-13-hyunjae-birthday",
+  "title": {
+    "en": "Hyunjae Birthday",
+    "ko": "현재 생일"
+  },
+  "date": "2026-09-13",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "hyunjae"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "",
+  "location": "",
+  "description": {
+    "en": "Hyunjae Birthday",
+    "ko": "현재 생일"
+  },
+  "link": ""
+},
 ];
+
 
 
 
