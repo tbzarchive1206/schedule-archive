@@ -140,4 +140,29 @@ window.SCHEDULE_EVENTS=[
 {id:"2026-09-21-ninetofive-special",title:{en:"NINE TO FIVE: Tokyo",ko:"NINE TO FIVE: Tokyo"},date:"2026-09-21",time:"",members:["younghoon","hyunjae"],types:["fanmeeting"],thumbnail:"assets/events/ninetofivespecial.jpg",location:"Tokyo",description:{en:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo'",ko:"Younghoon & Hyunjae Fanmeeting 'NINE TO FIVE in Tokyo"},link:""},
 
 {id:"2026-10-24-theafestival",title:{en:"The A Festival in Paris",ko:"The A Festival in Paris"},date:"2026-10-24",time:"",members:["jacob"],types:["performance"],thumbnail:"assets/events/jacob.jpg",location:"Paris Event Center",description:{en:"Jacob at The A Festival in Paris.",ko:"Jacob at The A Festival in Paris."},link:""},
+
+{
+  "id": "2026-10-03-2026-film-take-sangyeon-station",
+  "title": {
+    "en": "2026 FILM TAKE: Sangyeon Station",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역)"
+  },
+  "date": "2026-10-03",
+  "time": "14:00",
+  "endTime": "",
+  "members": [
+    "sangyeon"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-10-03-2026-film-take-sangyeon-station.jpg",
+  "location": "Sejeong University Daeyang Hall",
+  "description": {
+    "en": "October 3rd, 2pm and 7pm\nSejeong University Daeyang Hall\n\nTicket Sales open:\nSeptember 21, 2026 (Mon) 20:00 (KST) ~",
+    "ko": "예매 안내\n- 티켓 오픈 : 2026년 9월 21일(월) 20:00(KST) ~ \n- 휠체어석 예매 : 2026년 9월 22일(화) 10:00(KST) ~ \n\n공연개요\n- 공 연 명 : 2026 Film Take : 上淵展 ‘상연전(역)’ \n- 공연일시 : 2026년 10월 3일(토) 14:00(KST) / 19:00(KST)\n- 공연장소 : 세종대학교 대양홀\n- 티켓가격 : R석(1층) 99,000원 / S석(2층) 88,000원\n- 매수제한 : 회차당 1인 2매\n- 관람등급 : 8세 이상 (미취학아동 입장불가)\n- 티켓예매 : YES24 티켓(1544-6399)\n- 휠체어석 예매 문의 : YES24 티켓(1544-6399)"
+  },
+  "link": "https://www.instagram.com/p/DdYD6jrgRrg/"
+},
 ];
+
