@@ -212,7 +212,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-10-17-jacob-more-than-words-in-macau",
+  "title": {
+    "en": "JACOB 'More Than Words' in MACAU",
+    "ko": "JACOB 'More Than Words' in MACAU"
+  },
+  "date": "2026-10-17",
+  "time": "17:00",
+  "endTime": "",
+  "members": [
+    "jacob"
+  ],
+  "types": [
+    "showcase"
+  ],
+  "thumbnail": "assets/events/2026-10-17-jacob-more-than-words-in-macau.jpg",
+  "location": "G Box, Galaxy Resort",
+  "description": {
+    "en": "JACOB 'More Than Words' in MACAU",
+    "ko": "JACOB 'More Than Words' in MACAU"
+  },
+  "link": ""
+},
 ];
+
 
 
 
