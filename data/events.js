@@ -236,7 +236,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-09-22-first-pitch-for-kiwoom-heroes",
+  "title": {
+    "en": "First Pitch for KIWOOM HEROES",
+    "ko": "에릭 키움히어로즈 두산전 시구"
+  },
+  "date": "2026-09-22",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "assets/events/2026-09-22-first-pitch-for-kiwoom-heroes.jpg",
+  "location": "",
+  "description": {
+    "en": "First Pitch for KIWOOM HEROES",
+    "ko": "에릭 키움히어로즈 두산전 시구"
+  },
+  "link": "https://www.instagram.com/p/DdQVdfAjEfm/?img_index=2"
+},
 ];
+
 
 
 
