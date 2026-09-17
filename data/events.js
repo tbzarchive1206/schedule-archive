@@ -260,7 +260,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DdQVdfAjEfm/?img_index=2"
 },
+
+{
+  "id": "2026-09-14-dangnyangzip-ep1",
+  "title": {
+    "en": "Dangnyangzip EP1",
+    "ko": "댕냥ZIP EP1"
+  },
+  "date": "2026-09-14",
+  "time": "21:00",
+  "endTime": "",
+  "members": [
+    "sunwoo"
+  ],
+  "types": [
+    "tv"
+  ],
+  "thumbnail": "assets/events/2026-09-14-dangnyangzip-ep1.jpg",
+  "location": "",
+  "description": {
+    "en": "Dangnyangzip EP1",
+    "ko": "댕냥ZIP EP1"
+  },
+  "link": "https://www.youtube.com/watch?v=zeW5QMtRWxs"
+},
 ];
+
 
 
 
