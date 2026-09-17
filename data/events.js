@@ -164,5 +164,30 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DdYD6jrgRrg/"
 },
+
+{
+  "id": "2026-09-18-jacob-on-flex-talk-fm",
+  "title": {
+    "en": "JACOB on FLEX TALK FM",
+    "ko": "제이콥 FLEX TALK"
+  },
+  "date": "2026-09-18",
+  "time": "19:00",
+  "endTime": "",
+  "members": [
+    "jacob"
+  ],
+  "types": [
+    "radio"
+  ],
+  "thumbnail": "assets/events/2026-09-18-jacob-on-flex-talk-fm.jpg",
+  "location": "",
+  "description": {
+    "en": "JACOB on FLEX TALK (Thailand)",
+    "ko": "제이콥 FLEX TALK (태국)"
+  },
+  "link": "https://www.instagram.com/p/DdVYJQfHCQa/"
+},
 ];
+
 
