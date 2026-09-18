@@ -404,7 +404,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": ""
 },
+
+{
+  "id": "2026-09-18-kevin-what-s-your-music-ep-16",
+  "title": {
+    "en": "Kevin | WHAT'S YOUR MUSIC EP 16",
+    "ko": "Kevin | WHAT'S YOUR MUSIC EP 16"
+  },
+  "date": "2026-09-18",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "tv"
+  ],
+  "thumbnail": "assets/events/2026-09-18-kevin-what-s-your-music-ep-16.jpg",
+  "location": "",
+  "description": {
+    "en": "Kevin | WHAT'S YOUR MUSIC EP 16",
+    "ko": "Kevin | WHAT'S YOUR MUSIC EP 16"
+  },
+  "link": "https://www.youtube.com/watch?v=9mXkR1YxqLU"
+},
 ];
+
 
 
 
