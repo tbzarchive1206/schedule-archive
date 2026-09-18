@@ -428,7 +428,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=9mXkR1YxqLU"
 },
+
+{
+  "id": "2026-09-22-ebs-let-s-learn-korean-kevin",
+  "title": {
+    "en": "EBS Let‘s Learn Korean - KEVIN",
+    "ko": "아이돌 한국어"
+  },
+  "date": "2026-09-22",
+  "time": "16:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "radio"
+  ],
+  "thumbnail": "assets/events/2026-09-22-ebs-let-s-learn-korean-kevin.jpg",
+  "location": "",
+  "description": {
+    "en": "💌 ASTRO JINJIN’s Idol Korean Language Love Room 💌\n\nLet’s Go FREECHILD!\n\nKevin, who is making a fresh comeback with his first solo album,\nwill be joining the Idol Korean Language Love Room 💙\nCatch him live! 📻\n\n✔️ When? September 22 (Tue), 4 PM KST\n✔️ Where? [아이돌 한국어] YouTube channel",
+    "ko": "💌 ASTRO 진진의 아이돌 한국어 사랑방 💌\n\nLet’s Go FREECHILD!\n\n첫 솔로 앨범으로 새롭게 돌아온\n케빈이 아돌한 사랑방에 찾아옵니다💙\n생방송에서 바로 만나보세요!📻\n\n✔️When? 9/22(화) 오후 4시 (KST)\n✔️Where? [아이돌 한국어] 유튜브 채널"
+  },
+  "link": "https://www.youtube.com/@ebsfmkorean/streams"
+},
 ];
+
 
 
 
