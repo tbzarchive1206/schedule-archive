@@ -548,7 +548,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/muvveshop/status/2096116118134063557"
 },
+
+{
+  "id": "2026-09-11-kevin-freechild-fan-sign-videocall-event-everlin",
+  "title": {
+    "en": "Kevin [FREECHILD] Fan Sign & Videocall Event [EVERLINE]",
+    "ko": "케빈 [FREECHILD] 대면 / 영상통화 이벤트 [에버라인]"
+  },
+  "date": "2026-09-11",
+  "time": "19:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "fansign"
+  ],
+  "thumbnail": "assets/events/2026-09-11-kevin-freechild-fan-sign-videocall-event-everlin.jpg",
+  "location": "",
+  "description": {
+    "en": "Kevin [FREECHILD] Fan Sign & Videocall Event [EVERLINE]",
+    "ko": "케빈 [FREECHILD] 대면 / 영상통화 이벤트 [에버라인]"
+  },
+  "link": "https://x.com/EVERLINESHOP/status/2094666568986939729"
+},
 ];
+
 
 
 
