@@ -476,7 +476,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/THEBOYZJAPAN/status/2101249944531185909"
 },
+
+{
+  "id": "2026-09-20-kevin-freechild-meet-call-event-millionmusic",
+  "title": {
+    "en": "Kevin [FREECHILD] MEET & CALL EVENT [MillionMusic]",
+    "ko": "Kevin [FREECHILD] 발매 기념 MEET & CALL EVENT [밀리언뮤직]"
+  },
+  "date": "2026-09-20",
+  "time": "19:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "fansign"
+  ],
+  "thumbnail": "assets/events/2026-09-20-kevin-freechild-meet-call-event-millionmusic.jpg",
+  "location": "",
+  "description": {
+    "en": "Kevin [FREECHILD] MEET & CALL EVENT [MillionMusic]",
+    "ko": "케빈문(Kevin Moon) 1st Single Album [FREECHILD] 발매 기념 MEET & CALL EVENT ➰🖤\n\n🗓이벤트 일자\n : 2026년 09월 20일 일요일 19:00(KST) ~\n\n⏳응모 기간\n  : 09/14(월) 15:00 ~ 09/16(수) 23:59(KST)\n\n🥳당첨자 발표 \n  : 09/17(목) 21:00(KST) 이후 \n    밀리언뮤직 온라인몰 공지사항 내 게시"
+  },
+  "link": "https://x.com/MillionMusic_kr/status/2099377974726520858"
+},
 ];
+
 
 
 
