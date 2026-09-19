@@ -452,7 +452,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/@ebsfmkorean/streams"
 },
+
+{
+  "id": "2026-10-18-2026-film-take-sangyeon-station-in-japan",
+  "title": {
+    "en": "2026 FILM TAKE: Sangyeon Station IN JAPAN",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역) IN JAPAN"
+  },
+  "date": "2026-10-18",
+  "time": "13:00",
+  "endTime": "",
+  "members": [
+    "sangyeon"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-10-18-2026-film-take-sangyeon-station-in-japan.jpg",
+  "location": "CURIAN / Shinagawa General Civic Hall",
+  "description": {
+    "en": "2026 FILM TAKE: Sangyeon Station IN JAPAN",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역) IN JAPAN"
+  },
+  "link": "https://x.com/THEBOYZJAPAN/status/2101249944531185909"
+},
 ];
+
 
 
 
