@@ -500,7 +500,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/MillionMusic_kr/status/2099377974726520858"
 },
+
+{
+  "id": "2026-09-19-kevin-freechild-meet-call-event-millionmusic",
+  "title": {
+    "en": "Kevin [FREECHILD] MEET & CALL EVENT [MillionMusic]",
+    "ko": "케빈 [FREECHILD] MEET & CALL EVENT [밀리언뮤직]"
+  },
+  "date": "2026-09-19",
+  "time": "13:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "fansign"
+  ],
+  "thumbnail": "assets/events/2026-09-19-kevin-freechild-meet-call-event-millionmusic.jpg",
+  "location": "",
+  "description": {
+    "en": "Kevin [FREECHILD] MEET & CALL EVENT [MillionMusic]",
+    "ko": "케빈 [FREECHILD] MEET & CALL EVENT [밀리언뮤직]"
+  },
+  "link": "https://x.com/MillionMusic_kr/status/2097929683086299446"
+},
 ];
+
 
 
 
