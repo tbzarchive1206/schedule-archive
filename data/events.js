@@ -524,7 +524,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/MillionMusic_kr/status/2097929683086299446"
 },
+
+{
+  "id": "2026-09-12-kevin-freechild-video-call-event-muvve",
+  "title": {
+    "en": "Kevin [FREECHILD] Video Call Event [muvve]",
+    "ko": "Kevin [FREECHILD] Video Call Event [muvve]"
+  },
+  "date": "2026-09-12",
+  "time": "14:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "videocall"
+  ],
+  "thumbnail": "assets/events/2026-09-12-kevin-freechild-video-call-event-muvve.jpg",
+  "location": "",
+  "description": {
+    "en": "Kevin [FREECHILD] Video Call Event [muvve]",
+    "ko": "Kevin [FREECHILD] Video Call Event [muvve]"
+  },
+  "link": "https://x.com/muvveshop/status/2096116118134063557"
+},
 ];
+
 
 
 
