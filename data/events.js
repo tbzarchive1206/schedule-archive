@@ -572,7 +572,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/EVERLINESHOP/status/2094666568986939729"
 },
+
+{
+  "id": "2026-09-30-mbc-idol-radio-with-daily-direction-ep-249",
+  "title": {
+    "en": "MBC Idol Radio with DAILY:DIRECTION | EP 249",
+    "ko": "MBC 아이돌 라디오 데일리디렉션 | EP 249"
+  },
+  "date": "2026-09-30",
+  "time": "21:00",
+  "endTime": "",
+  "members": [
+    "sunwoo"
+  ],
+  "types": [
+    "radio"
+  ],
+  "thumbnail": "assets/events/2026-09-30-mbc-idol-radio-with-daily-direction-ep-249.jpg",
+  "location": "",
+  "description": {
+    "en": "MBC Idol Radio with DAILY:DIRECTION | EP 249",
+    "ko": "MBC 아이돌 라디오 데일리디렉션 | EP 249"
+  },
+  "link": "https://x.com/idolradiokorea/status/2101870186307719422"
+},
 ];
+
 
 
 
