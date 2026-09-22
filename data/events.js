@@ -596,7 +596,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/idolradiokorea/status/2101870186307719422"
 },
+
+{
+  "id": "2026-10-31-2026-sunwoo-fanmeeting-in-shanghai-undefined",
+  "title": {
+    "en": "2026 SUNWOO FANMEETING IN SHANGHAI <UNDEFINED>",
+    "ko": "2026 선우 팬미팅 인 상하이 <UNDEFINED>"
+  },
+  "date": "2026-10-31",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "sunwoo"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-10-31-2026-sunwoo-fanmeeting-in-shanghai-undefined.jpg",
+  "location": "",
+  "description": {
+    "en": "2026 SUNWOO FANMEETING IN SHANGHAI <UNDEFINED>",
+    "ko": "2026 선우 팬미팅 인 상하이 <UNDEFINED>"
+  },
+  "link": "https://x.com/ATAREAOFFICIAL/status/2102323675680981362"
+},
 ];
+
 
 
 
