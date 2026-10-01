@@ -716,7 +716,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/ericisenergy/status/2105130516299345972"
 },
+
+{
+  "id": "2026-11-09-eric-baby-pink-letter-exhibition-day3",
+  "title": {
+    "en": "ERIC Baby Pink Letter Exhibition DAY3",
+    "ko": "ERIC Baby Pink Letter Exhibition DAY3"
+  },
+  "date": "2026-11-09",
+  "time": "12:00",
+  "endTime": "20:00",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "assets/events/2026-11-09-eric-baby-pink-letter-exhibition-day3.jpg",
+  "location": "CCCS HANNAM F2",
+  "description": {
+    "en": "ERIC Baby Pink Letter Exhibition DAY3",
+    "ko": "ERIC Baby Pink Letter Exhibition DAY3"
+  },
+  "link": "https://x.com/ericisenergy/status/2105130516299345972"
+},
 ];
+
 
 
 
