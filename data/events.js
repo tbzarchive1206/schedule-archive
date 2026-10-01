@@ -860,7 +860,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://box.donus.org/box/korealegacy/2026_KOREALEGACY_GALA?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUpJ9lleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp19hchgqxz0uucYggbbfDBh3t4lr6eK5Z7HkFbJq9yseKOKrbWzeTxDTWXFB_aem_bz2ewbsEVyZgXJij-5xXAA&utm_id=97760_v0_s00_e0_tv3"
 },
+
+{
+  "id": "2026-09-28-idol-radio-bestie-bestie-ep-2-the-boyz",
+  "title": {
+    "en": "IDOL RADIO \"BESTIE? BESTIE!\" EP 2. THE BOYZ",
+    "ko": "아이돌 라디오 우리진찌친함 EP 2 더보이즈"
+  },
+  "date": "2026-09-28",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "the-boyz"
+  ],
+  "types": [
+    "tv"
+  ],
+  "thumbnail": "assets/events/2026-09-28-idol-radio-bestie-bestie-ep-2-the-boyz.jpg",
+  "location": "",
+  "description": {
+    "en": "IDOL RADIO \"BESTIE? BESTIE!\" EP 2. THE BOYZ",
+    "ko": "아이돌 라디오 우리진찌친함 EP 2 더보이즈"
+  },
+  "link": "https://www.youtube.com/watch?v=2SdFCUE3ZN4"
+},
 ];
+
 
 
 
