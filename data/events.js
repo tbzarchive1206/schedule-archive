@@ -836,7 +836,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/ericisenergy/status/2105130516299345972"
 },
+
+{
+  "id": "2026-10-10-kevin-korea-legacy-eleventh-anniversary-gala",
+  "title": {
+    "en": "Kevin @ KOREA LEGACY ELEVENTH ANNIVERSARY GALA",
+    "ko": "케빈 코리아레거시 제 11회 자선 갈라 행사"
+  },
+  "date": "2026-10-10",
+  "time": "18:00",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "assets/events/2026-10-10-kevin-korea-legacy-eleventh-anniversary-gala.jpg",
+  "location": "Four Seasons Hotel",
+  "description": {
+    "en": "Kevin @ KOREA LEGACY ELEVENTH ANNIVERSARY GALA",
+    "ko": "케빈 코리아레거시 제 11회 자선 갈라 행사"
+  },
+  "link": "https://box.donus.org/box/korealegacy/2026_KOREALEGACY_GALA?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAb21jcAUpJ9lleHRuA2FlbQIxMQBwZG9mAnNydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp19hchgqxz0uucYggbbfDBh3t4lr6eK5Z7HkFbJq9yseKOKrbWzeTxDTWXFB_aem_bz2ewbsEVyZgXJij-5xXAA&utm_id=97760_v0_s00_e0_tv3"
+},
 ];
+
 
 
 
