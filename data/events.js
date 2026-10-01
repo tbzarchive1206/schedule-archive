@@ -620,7 +620,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/ATAREAOFFICIAL/status/2102323675680981362"
 },
+
+{
+  "id": "2026-10-01-juyeon-balenciaga-paris-fashion-week",
+  "title": {
+    "en": "Juyeon @ BALENCIAGA Paris Fashion Week",
+    "ko": "주연 발렌시아가 PFW"
+  },
+  "date": "2026-10-01",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "juyeon"
+  ],
+  "types": [
+    "fashion"
+  ],
+  "thumbnail": "assets/events/2026-10-01-juyeon-balenciaga-paris-fashion-week.jpg",
+  "location": "Paris, France",
+  "description": {
+    "en": "Juyeon @ BALENCIAGA Paris Fashion Week - Les Coraux de la Liberté’, Pierpaolo Piccioli’s Summer 27",
+    "ko": "주연 발렌시아가 PFW Les Coraux de la Liberté’ Summer 27"
+  },
+  "link": "https://www.youtube.com/watch?v=Kz5HI-z8Nnc"
+},
 ];
+
 
 
 
