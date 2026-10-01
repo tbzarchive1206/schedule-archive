@@ -668,7 +668,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=CQhkEXHHj0U"
 },
+
+{
+  "id": "2026-11-07-eric-baby-pink-letter-exhibition",
+  "title": {
+    "en": "ERIC Baby Pink Letter Exhibition",
+    "ko": "ERIC Baby Pink Letter Exhibition"
+  },
+  "date": "2026-11-07",
+  "time": "12:00",
+  "endTime": "20:00",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "assets/events/2026-11-07-eric-baby-pink-letter-exhibition.jpg",
+  "location": "CCCS HANNAM 2F",
+  "description": {
+    "en": "ERIC Baby Pink Letter Exhibition",
+    "ko": "ERIC Baby Pink Letter Exhibition"
+  },
+  "link": "https://x.com/ericisenergy/status/2105130516299345972"
+},
 ];
+
 
 
 
