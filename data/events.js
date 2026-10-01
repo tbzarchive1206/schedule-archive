@@ -644,7 +644,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=Kz5HI-z8Nnc"
 },
+
+{
+  "id": "2026-10-02-eric-yohji-yamamoto-paris-fashion-week",
+  "title": {
+    "en": "Eric @ Yohji Yamamoto | Paris Fashion Week",
+    "ko": "에릭 | 요지 야마모토 파리 패션위크"
+  },
+  "date": "2026-10-02",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "fashion"
+  ],
+  "thumbnail": "assets/events/2026-10-02-eric-yohji-yamamoto-paris-fashion-week.png",
+  "location": "",
+  "description": {
+    "en": "Yohji Yamamoto S/S 2027",
+    "ko": "에릭 | 요지 야마모토 파리 패션위크"
+  },
+  "link": "https://www.youtube.com/watch?v=CQhkEXHHj0U"
+},
 ];
+
 
 
 
