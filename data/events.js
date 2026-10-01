@@ -884,7 +884,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=2SdFCUE3ZN4"
 },
+
+{
+  "id": "2026-11-14-2026-eric-seoul-fanmeeting",
+  "title": {
+    "en": "2026 ERIC Seoul Fanmeeting '꽃보다 손영재",
+    "ko": "2026 ERIC Seoul Fanmeeting '꽃보다 손영재"
+  },
+  "date": "2026-11-14",
+  "time": "14:00",
+  "endTime": "",
+  "members": [
+    "eric"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-11-14-2026-eric-seoul-fanmeeting.jpg",
+  "location": "",
+  "description": {
+    "en": "2026 ERIC Seoul Fanmeeting '꽃보다 손영재",
+    "ko": "2026 ERIC Seoul Fanmeeting '꽃보다 손영재"
+  },
+  "link": "https://x.com/ericisenergy/status/2105492916965896265"
+},
 ];
+
 
 
 
