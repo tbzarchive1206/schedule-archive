@@ -932,7 +932,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DeYwWTtj7Jz/"
 },
+
+{
+  "id": "2026-11-21-2026-film-take-sangyeon-station-in-bangkok",
+  "title": {
+    "en": "2026 FILM TAKE: Sangyeon Station in Bangkok",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 방콕"
+  },
+  "date": "2026-11-21",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "sangyeon"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-11-21-2026-film-take-sangyeon-station-in-bangkok.jpg",
+  "location": "SPHERE HALL",
+  "description": {
+    "en": "2026 FILM TAKE: Sangyeon Station in Bangkok",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 방콕"
+  },
+  "link": "https://www.instagram.com/p/DeYwWTtj7Jz/"
+},
 ];
+
 
 
 
