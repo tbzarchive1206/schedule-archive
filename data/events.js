@@ -1172,5 +1172,30 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.youtube.com/watch?v=UElJyhOxWos"
 },
+
+{
+  "id": "2026-10-05-dangnyangzip-ep3",
+  "title": {
+    "en": "Dangnyangzip EP3",
+    "ko": "댕냥ZIP EP.3"
+  },
+  "date": "2026-10-05",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "sunwoo"
+  ],
+  "types": [
+    "tv"
+  ],
+  "thumbnail": "assets/events/2026-10-05-dangnyangzip-ep3.jpg",
+  "location": "Youtube",
+  "description": {
+    "en": "We pictured a relaxing walk in the cool breeze 🍃\nInstead, we came back drenched in sweat 🐶💦\n\nWalking, carrying, and running—we barely had a moment to breathe!\nHow did Captain Raccoon and our dog-loving captains’ first walk go? 👀⁉️",
+    "ko": "여유롭게 시원한 바람 맞으며 즐기려고 했는데🍃\n상상과 반대로 땀 흘리며 산책하고 왔개🐶💦\n\n걷고 안고 뛰느라 정신 쏙 빠진\n너구리 대장과 강아지 대장들의 첫 산책은👀⁉️"
+  },
+  "link": "https://www.youtube.com/watch?v=i09HZBZw9-A"
+},
 ];
+
 
