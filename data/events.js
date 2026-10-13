@@ -1131,7 +1131,7 @@ window.SCHEDULE_EVENTS=[
     "en": "PAWS & LOVE WEEK with KEVIN MOON DAY6",
     "ko": "PAWS & LOVE WEEK with KEVIN MOON DAY6"
   },
-  "date": "2026-10-25",
+  "date": "2026-10-24",
   "time": "",
   "endTime": "",
   "members": [
