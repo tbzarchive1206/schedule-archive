@@ -980,7 +980,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DeZfbHuAAuT/"
 },
+
+{
+  "id": "2026-10-20-paws-love-week-with-kevin-moon-day1",
+  "title": {
+    "en": "PAWS & LOVE WEEK with KEVIN MOON DAY1",
+    "ko": "PAWS & LOVE WEEK with KEVIN DAY1"
+  },
+  "date": "2026-10-20",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "kevin"
+  ],
+  "types": [
+    "other"
+  ],
+  "thumbnail": "assets/events/2026-10-20-paws-love-week-with-kevin-moon-day1.jpg",
+  "location": "펫터니아 하우스",
+  "description": {
+    "en": "7 days of turning love into something good.\nTogether with Kevin, we're starting a special week dedicated to rescue dogs.\nTaking place at Petternia from October 19 to 25, PAWS & LOVE WEEK is a project designed to turn the connection between Kevin and his fans into meaningful support for rescue dogs.\nA portion of the sales proceeds generated during the event will be used to purchase food for a rescue dog shelter.\nAnd if the PAWS & LOVE GOAL is achieved, KEVIN and selected fans will visit a rescue dog shelter together to participate in volunteer activities.\nPAWS & LOVE GOAL\nTotal accumulated sales during the event: KRW 5,000,000\nA KEVIN FAN SIGN EVENT will also be held for fans participating in PAWS & LOVE WEEK.",
+    "ko": "PAWS & LOVE WEEK with KEVIN 🐾\n좋아하는 마음이, 좋은 일로 이어지는 7일.\n\n케빈과 함께, 유기견을 위한 조금 특별한 일주일을 시작합니다.\n\n10월 19일부터 25일까지 펫터니아에서 진행되는\nPAWS & LOVE WEEK는 케빈과 팬들의 만남이 유기견에게\n실제 도움으로 이어질 수 있도록 준비한 프로젝트입니다.\n\n행사 기간 동안 발생한 판매 수익 일부는\n유기견 보호센터에 필요한 사료를 구매하는 데 사용됩니다.\n\n그리고 PAWS & LOVE GOAL이 달성되면,\nKEVIN과 선정된 팬들이 함께 유기견 보호센터를 찾아\n봉사활동을 진행합니다.\n\nPAWS & LOVE GOAL\n행사 기간 누적 판매 5,000,000원\n\nPAWS & LOVE WEEK를 함께해주시는 팬들을 위한\nKEVIN FAN SIGN EVENT도 진행됩니다."
+  },
+  "link": "https://www.instagram.com/p/DeL_7a2lPJF/?img_index=1"
+},
 ];
+
 
 
 
