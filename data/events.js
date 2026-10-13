@@ -956,7 +956,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://www.instagram.com/p/DeYwWTtj7Jz/"
 },
+
+{
+  "id": "2026-11-07-2026-jichangmin-fanmeeting-for-season",
+  "title": {
+    "en": "2026 JICHANGMIN FANMEETING <네 계절: For Season>",
+    "ko": "2026 지창민 팬미팅 <네 계절: For Season>"
+  },
+  "date": "2026-11-07",
+  "time": "14:00",
+  "endTime": "",
+  "members": [
+    "q"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-11-07-2026-jichangmin-fanmeeting-for-season.jpg",
+  "location": "코엑스 아티움 우리은행홀",
+  "description": {
+    "en": "A time to fill all four seasons of you and me with memories together 🩵\nEveryone who loves spending every season with Ji Changmin is welcome!\n• Event Date & Venue\n🗓️ Date: November 7, 2026 (SAT) at 2:00 PM / 7:00 PM (KST)\n📍 Venue: Woori Bank Hall, COEX Artium\n• Ticket Sales Information\n🗓️ Date: October 16, 2026 (FRI) at 8:00 PM (KST)\n📍 Ticketing Platform: NOL WEB/APP\n(* Detailed ticket reservation information can be found on the NOL website or social media.)",
+    "ko": "2026 JI CHANGMIN FANMEETING [네 계절 : For Season]\n\n너와 나의 사계절을 함께 채워가는 시간 🩵\n\n지창민과 함께하는 모든 계절을\n사랑하는 분들 환영합니다!\n\n• 공연 일정 및 장소\n🗓️ 일시 : 2026.11.07.SAT 14:00 / 19:00 (KST)\n📍 장소 : 코엑스아티움 우리은행홀\n\n• 티켓 예매 오픈 안내\n🗓️ 일시 : 2026.10.16.FRI 20:00 (KST)\n📍 예매처 : NOL WEB/APP\n(* 티켓 예매 관련 상세 안내사항은 NOL 웹사이트 또는 SNS를 통해서 확인 가능합니다.)"
+  },
+  "link": "https://www.instagram.com/p/DeZfbHuAAuT/"
+},
 ];
+
 
 
 
