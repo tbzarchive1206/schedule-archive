@@ -908,7 +908,32 @@ window.SCHEDULE_EVENTS=[
   },
   "link": "https://x.com/ericisenergy/status/2105492916965896265"
 },
+
+{
+  "id": "2026-11-01-2026-film-take-sangyeon-station-in-hong-kong",
+  "title": {
+    "en": "2026 FILM TAKE: Sangyeon Station in Hong Kong",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 홍콩"
+  },
+  "date": "2026-11-01",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "sangyeon"
+  ],
+  "types": [
+    "fanmeeting"
+  ],
+  "thumbnail": "assets/events/2026-11-01-2026-film-take-sangyeon-station-in-hong-kong.jpg",
+  "location": "AXA Dream Hall",
+  "description": {
+    "en": "2026 FILM TAKE: Sangyeon Station in Hong Kong",
+    "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 홍콩"
+  },
+  "link": "https://www.instagram.com/p/DeYwWTtj7Jz/"
+},
 ];
+
 
 
 
