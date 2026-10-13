@@ -1152,7 +1152,7 @@ window.SCHEDULE_EVENTS=[
 {
   "id": "2026-09-28-dangnyangzip-ep1",
   "title": {
-    "en": "Dangnyangzip EP1",
+    "en": "Dangnyangzip EP2",
     "ko": "댕냥ZIP EP.2"
   },
   "date": "2026-09-28",
