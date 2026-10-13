@@ -1149,44 +1149,28 @@ window.SCHEDULE_EVENTS=[
   "link": "https://www.instagram.com/p/DeL_7a2lPJF/?img_index=1"
 },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{
+  "id": "2026-09-28-dangnyangzip-ep1",
+  "title": {
+    "en": "Dangnyangzip EP1",
+    "ko": "댕냥ZIP EP.2"
+  },
+  "date": "2026-09-28",
+  "time": "",
+  "endTime": "",
+  "members": [
+    "sunwoo"
+  ],
+  "types": [
+    "tv"
+  ],
+  "thumbnail": "assets/events/2026-09-28-dangnyangzip-ep1.jpg",
+  "location": "Youtube",
+  "description": {
+    "en": "💦 The Dangnyang ZIP water park is open! 🐶🌊\nA splash of summer heat in the middle of fall ☀️\n\n🐈 Our cat-loving volunteer and 🦝 Captain Raccoon are hosting a very special pool day!\nIt’s the dogs’ first time in the water—but who will have the most fun? 🐾",
+    "ko": "💦 댕냥ZIP에 워터파크가 개장했개! 🐶🌊\n\n가을에 느껴보는 뜨거운 여름 맛☀️  \n🐈 냥집사와 🦝 너굴대장의 특급 물놀이 교실!  \n견생 첫 물놀이 도전! 누가누가 가장 잘 놀았개~?"
+  },
+  "link": "https://www.youtube.com/watch?v=UElJyhOxWos"
+},
 ];
+
