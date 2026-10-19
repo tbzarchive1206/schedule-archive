@@ -2722,5 +2722,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "➫ 공연 일시 DATE\n2026. 11. 21 (SAT) 6PM\n2026. 11. 22 (SUN) 5PM\n\n➫ 공연 장소 VENUE\nMYUNGHWA LIVE HALL\n\n➫ 티켓 가격 TICKET PRICE\n전석 99,000₩\n\n➫ 티켓 오픈 TICKET OPEN\n2026. 10. 21 WED 8PM (KST)\nNOL 티켓 단독"
     },
     "link": "https://x.com/ATAREAOFFICIAL/status/2112106480380092808"
+  },
+  {
+    "id": "2026-10-31-kevin-freechild-photo-event-in-tokyo",
+    "title": {
+      "en": "Kevin 'FREECHILD' Photo Event in Tokyo",
+      "ko": "Kevin 'FREECHILD' Photo Event in Tokyo"
+    },
+    "date": "2026-10-31",
+    "time": "17:00",
+    "endTime": "",
+    "members": [
+      "kevin"
+    ],
+    "types": [
+      "other"
+    ],
+    "thumbnail": "assets/events/2026-10-31-kevin-freechild-photo-event-in-tokyo.jpg",
+    "location": "CIRCUS TOKYO",
+    "description": {
+      "en": "★ Kevin Moon <FREE CHILD> Release Party in TOKYO\n\n📅 October 31, 2026 (Sat), 5:00 PM (tentative)\n📍 CIRCUS TOKYO\n\n★ <ONLINE PRE-ORDER>\n\nTicket Price: Standing – ¥9,900 (tax included)\n\nDetails regarding the event will be provided separately to ticket purchasers only.\n\nPlease do not contact the venue with inquiries about the event.\n\nSales Period: October 16, 2026 (Fri), 5:00 PM – October 19 (Mon), 6:00 PM\nCapacity: 100 people\nPurchase Limit: 2 tickets per person\nWhere to Purchase: PHOTOISM SHOP online store (via the link in the profile or QR code)\n\n★ <ON-SITE TICKET SALES>\n\nSales Period: October 31, 2026 (Sat), 3:00–4:30 PM\n\nAvailability: Tickets will only be sold on-site if any remain after online pre-sales.\n\nPurchase Limit: 1 ticket per person\n\nSales Location: CIRCUS TOKYO 1F\n\n※ If tickets sell out during online pre-sales, there will be no on-site ticket sales.\n\n★ <TICKET PICK-UP & ADMISSION INFORMATION>\n\nTicket Pick-up: October 31, 2026 (Sat), 3:00–4:30 PM (admission begins at 4:00 PM)\n\nAll spots will be assigned by lottery. After collecting your ticket at the venue, it will be exchanged for a wristband.\n\nTicket Pick-up Location: CIRCUS TOKYO 1F\n\nEvent Admission: October 31, 2026 (Sat), from 4:00 PM",
+      "ko": "★ Kevin Moon <FREE CHILD> Release Party in TOKYO\n\n📅 2026년 10월 31일 (토) 17:00 (예정)\n📍 CIRCUS TOKYO\n\n★ <온라인 사전 예매>\n\n티켓 가격: 스탠딩 9,900엔 (세금 포함)\n\n공연에 관한 자세한 사항은 구매자에게만 별도로 안내됩니다.\n\n행사 관련 문의는 공연장에서 받지 않습니다.\n\n판매 기간: 2026년 10월 16일 (금) 17:00 ~ 10월 19일 (월) 18:00\n판매 인원: 총 100명\n구매 제한: 1인당 최대 2매\n판매처: PHOTOISM SHOP 온라인 스토어 (프로필 링크 또는 QR 코드 이용)\n\n★ <현장 티켓 판매>\n\n판매 일시: 2026년 10월 31일 (토) 15:00~16:30\n\n판매 수량: 온라인 사전 예매 후 잔여석이 있는 경우에만 현장 판매 진행\n\n구매 제한: 1인당 1매\n\n판매 장소: CIRCUS TOKYO 1층\n\n※ 온라인 사전 예매에서 매진될 경우 현장 판매는 진행되지 않습니다.\n\n★ <티켓 수령 및 입장 안내>\n\n티켓 교환 일시: 2026년 10월 31일 (토) 15:00~16:30 (16:00 입장 시작)\n\n모든 좌석은 추첨을 통해 배정됩니다. 현장에서 티켓을 수령한 후 손목밴드로 교환합니다.\n\n티켓 교환 장소: CIRCUS TOKYO 1층\n\n행사 입장 일시: 2026년 10월 31일 (토) 16:00부터"
+    },
+    "link": "https://x.com/PhotoismJP/status/2111069427269828964"
   }
 ];
