@@ -2699,5 +2699,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "2026 SUNWOO FANMEETING <UNCHAINED>\n\n➫ 공연 일시 DATE\n2026. 11. 21 (SAT) 6PM\n2026. 11. 22 (SUN) 5PM\n\n➫ 공연 장소 VENUE\nMYUNGHWA LIVE HALL\n\n➫ 티켓 가격 TICKET PRICE\n전석 99,000₩\n\n➫ 티켓 오픈 TICKET OPEN\n2026. 10. 21 WED 8PM (KST)\nNOL 티켓 단독"
     },
     "link": "https://x.com/ATAREAOFFICIAL/status/2112106480380092808"
+  },
+  {
+    "id": "2026-11-22-2026-sunwoo-fanmeeting-unchained",
+    "title": {
+      "en": "2026 SUNWOO FANMEETING <UNCHAINED>",
+      "ko": "2026 SUNWOO FANMEETING <UNCHAINED>"
+    },
+    "date": "2026-11-22",
+    "time": "17:00",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "assets/events/2026-11-22-2026-sunwoo-fanmeeting-unchained.jpg",
+    "location": "MYUNGHWA LIVE HALL",
+    "description": {
+      "en": "➫ 공연 일시 DATE\n2026. 11. 21 (SAT) 6PM\n2026. 11. 22 (SUN) 5PM\n\n➫ 공연 장소 VENUE\nMYUNGHWA LIVE HALL\n\n➫ 티켓 가격 TICKET PRICE\n전석 99,000₩\n\n➫ 티켓 오픈 TICKET OPEN\n2026. 10. 21 WED 8PM (KST)\nNOL 티켓 단독",
+      "ko": "➫ 공연 일시 DATE\n2026. 11. 21 (SAT) 6PM\n2026. 11. 22 (SUN) 5PM\n\n➫ 공연 장소 VENUE\nMYUNGHWA LIVE HALL\n\n➫ 티켓 가격 TICKET PRICE\n전석 99,000₩\n\n➫ 티켓 오픈 TICKET OPEN\n2026. 10. 21 WED 8PM (KST)\nNOL 티켓 단독"
+    },
+    "link": "https://x.com/ATAREAOFFICIAL/status/2112106480380092808"
   }
 ];
