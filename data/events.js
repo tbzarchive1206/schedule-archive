@@ -2793,5 +2793,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "댕냥ZIP EP.5"
     },
     "link": ""
+  },
+  {
+    "id": "2026-10-19-mbc-idol-radio-with-yuju-ep-252",
+    "title": {
+      "en": "MBC Idol Radio with YUJU | EP 252",
+      "ko": "MBC 아이돌 라디오 유주 | EP 252"
+    },
+    "date": "2026-10-19",
+    "time": "14:00",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-10-19-mbc-idol-radio-with-yuju-ep-252.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "MBC Idol Radio with YUJU | EP 252",
+      "ko": "MBC 아이돌 라디오 유주 | EP 252"
+    },
+    "link": "https://www.youtube.com/watch?v=YCF4Wn4FFUY"
   }
 ];
