@@ -2816,5 +2816,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 유주 | EP 252"
     },
     "link": "https://www.youtube.com/watch?v=YCF4Wn4FFUY"
+  },
+  {
+    "id": "2026-10-14-mbc-idol-radio-with-close-your-eyes-ep-251",
+    "title": {
+      "en": "MBC Idol Radio with CLOSE YOUR EYES | EP 251",
+      "ko": "MBC 아이돌 라디오 클로즈 유어 아이즈 | EP 251"
+    },
+    "date": "2026-10-14",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-10-14-mbc-idol-radio-with-close-your-eyes-ep-251.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "MBC Idol Radio with CLOSE YOUR EYES | EP 251",
+      "ko": "MBC 아이돌 라디오 클로즈 유어 아이즈 | EP 251"
+    },
+    "link": "https://www.youtube.com/watch?v=Q3HfgN-fxTQ"
   }
 ];
