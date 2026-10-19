@@ -2745,5 +2745,30 @@ window.SCHEDULE_EVENTS=[
       "ko": "★ Kevin Moon <FREE CHILD> Release Party in TOKYO\n\n📅 2026년 10월 31일 (토) 17:00 (예정)\n📍 CIRCUS TOKYO\n\n★ <온라인 사전 예매>\n\n티켓 가격: 스탠딩 9,900엔 (세금 포함)\n\n공연에 관한 자세한 사항은 구매자에게만 별도로 안내됩니다.\n\n행사 관련 문의는 공연장에서 받지 않습니다.\n\n판매 기간: 2026년 10월 16일 (금) 17:00 ~ 10월 19일 (월) 18:00\n판매 인원: 총 100명\n구매 제한: 1인당 최대 2매\n판매처: PHOTOISM SHOP 온라인 스토어 (프로필 링크 또는 QR 코드 이용)\n\n★ <현장 티켓 판매>\n\n판매 일시: 2026년 10월 31일 (토) 15:00~16:30\n\n판매 수량: 온라인 사전 예매 후 잔여석이 있는 경우에만 현장 판매 진행\n\n구매 제한: 1인당 1매\n\n판매 장소: CIRCUS TOKYO 1층\n\n※ 온라인 사전 예매에서 매진될 경우 현장 판매는 진행되지 않습니다.\n\n★ <티켓 수령 및 입장 안내>\n\n티켓 교환 일시: 2026년 10월 31일 (토) 15:00~16:30 (16:00 입장 시작)\n\n모든 좌석은 추첨을 통해 배정됩니다. 현장에서 티켓을 수령한 후 손목밴드로 교환합니다.\n\n티켓 교환 장소: CIRCUS TOKYO 1층\n\n행사 입장 일시: 2026년 10월 31일 (토) 16:00부터"
     },
     "link": "https://x.com/PhotoismJP/status/2111069427269828964"
+  },
+  {
+    "id": "2026-10-19-dangnyangzip-ep4",
+    "title": {
+      "en": "Dangnyangzip EP4",
+      "ko": "댕냥ZIP EP 4"
+    },
+    "date": "2026-10-19",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "younghoon",
+      "hyunjae",
+      "sunwoo"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "assets/events/2026-10-19-dangnyangzip-ep4.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "My first time bathing dogs, so I called in my big brothers for help 🦝\n\nOur first rescue dog bath day—with some trusty backup 🐶🫧\nTo everyone getting washed and doing the washing: great job! Pat pat ♥️",
+      "ko": "댕냥ZIP EP 4"
+    },
+    "link": "https://www.youtube.com/watch?v=8AGoZDa1aFg"
   }
 ];
