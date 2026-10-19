@@ -2726,8 +2726,8 @@ window.SCHEDULE_EVENTS=[
   {
     "id": "2026-10-31-kevin-freechild-photo-event-in-tokyo",
     "title": {
-      "en": "Kevin 'FREECHILD' Photo Event in Tokyo",
-      "ko": "Kevin 'FREECHILD' Photo Event in Tokyo"
+      "en": "Kevin Moon <FREE CHILD> Release Party in TOKYO",
+      "ko": "Kevin Moon <FREE CHILD> Release Party in TOKYO"
     },
     "date": "2026-10-31",
     "time": "17:00",
