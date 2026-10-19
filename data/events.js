@@ -2885,5 +2885,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "더보이즈 '큐'에서 배우 '지창민'으로!\n새로운 도전에 나선 지창민 배우의 솔직한 이야기를 들어봤습니다.\n글로벌 에디터들의 질문에 지창민 배우가 직접 답한 '글로벌 큐즈'💬\n\n✔ 더보이즈 '큐'와 배우 '지창민'의 가장 큰 차이점은?\n✔ 첫 주연작 '최애데뷔'를 촬영하며 매일 좌절했던 이유\n✔ 지창민 배우가 영화 '청설'과 홍경 배우를 좋아하는 이유\n✔ 인도에서 공연한다면 가장 먼저 선보이고 싶은 더보이즈의 노래는?\n✔ 한국과 파리 팬들의 응원 문화, 어떻게 다를까?\n✔ 30대에 열고 싶었던 사진전, 지금은 어떻게 준비하고 있을까?\n\n조급하지 않게, 천천히\n오래 나아가고 싶다는 지창민 배우의 진솔한 이야기!\n지금 볼드페이지에서 확인하세요!🎬✨"
     },
     "link": "https://www.youtube.com/watch?v=pgYsGzLYYhs"
+  },
+  {
+    "id": "2026-10-18-taking-my-korean-friend-to-try-thai-food-for-the",
+    "title": {
+      "en": "Taking my Korean friend to try Thai food for the first time, from savory to sweet!",
+      "ko": "한국인 친구에게 처음으로 태국 음식 먹여보기! 짭짤한 음식부터 달콤한 디저트까지!"
+    },
+    "date": "2026-10-18",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "assets/events/2026-10-18-taking-my-korean-friend-to-try-thai-food-for-the.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "Taking my Korean friend to try Thai food for the first time, from savory to sweet!",
+      "ko": "한국인 친구에게 처음으로 태국 음식 먹여보기! 짭짤한 음식부터 달콤한 디저트까지!"
+    },
+    "link": "https://www.youtube.com/watch?v=v-8u1zYWn_0"
   }
 ];
