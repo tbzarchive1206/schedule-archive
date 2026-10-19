@@ -2839,5 +2839,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 클로즈 유어 아이즈 | EP 251"
     },
     "link": "https://www.youtube.com/watch?v=Q3HfgN-fxTQ"
+  },
+  {
+    "id": "2026-10-07-mbc-idol-radio-with-niziu-ep-250",
+    "title": {
+      "en": "MBC Idol Radio with NiziU | EP 250",
+      "ko": "MBC 아이돌 라디오 니쥬 | EP 250"
+    },
+    "date": "2026-10-07",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-10-07-mbc-idol-radio-with-niziu-ep-250.jpg",
+    "location": "",
+    "description": {
+      "en": "MBC Idol Radio with NiziU | EP 250",
+      "ko": "MBC 아이돌 라디오 니쥬 | EP 250"
+    },
+    "link": "https://www.youtube.com/watch?v=BRfjSDVzc5s"
   }
 ];
