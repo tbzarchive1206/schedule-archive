@@ -2862,5 +2862,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 니쥬 | EP 250"
     },
     "link": "https://www.youtube.com/watch?v=BRfjSDVzc5s"
+  },
+  {
+    "id": "2026-10-17-how-did-the-theboyz-members-react-to-my-acting-g",
+    "title": {
+      "en": "How Did the #THEBOYZ Members React to My Acting? | Global Q’s",
+      "ko": "제 연기를 본 #더보이즈 멤버들 반응이 어땠냐면 | Global Q's"
+    },
+    "date": "2026-10-17",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "q"
+    ],
+    "types": [
+      "interview"
+    ],
+    "thumbnail": "assets/events/2026-10-17-how-did-the-theboyz-members-react-to-my-acting-g.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "From THE BOYZ’s Q to actor Ji Changmin!\n\nWe sat down with actor Ji Changmin to hear his honest thoughts on taking on new challenges.\nIn “Global Q’s,” Ji Changmin personally answers questions from global editors. 💬\n\n✔ What’s the biggest difference between THE BOYZ’s Q and actor Ji Changmin?\n✔ Why did he feel frustrated every day while filming his first leading role in My Favorite Debut?\n✔ Why does Ji Changmin love the film Hear Me and actor Hong Kyung?\n✔ Which THE BOYZ song would he want to perform first if he held a concert in India?\n✔ How do fan support cultures differ between Korea and Paris?\n✔ How is he preparing for the photography exhibition he once dreamed of holding in his 30s?\n\nAn honest conversation with actor Ji Changmin about his desire to keep moving forward, slowly and steadily, without rushing!\n\nWatch it now on Bold Page! 🎬✨",
+      "ko": "더보이즈 '큐'에서 배우 '지창민'으로!\n새로운 도전에 나선 지창민 배우의 솔직한 이야기를 들어봤습니다.\n글로벌 에디터들의 질문에 지창민 배우가 직접 답한 '글로벌 큐즈'💬\n\n✔ 더보이즈 '큐'와 배우 '지창민'의 가장 큰 차이점은?\n✔ 첫 주연작 '최애데뷔'를 촬영하며 매일 좌절했던 이유\n✔ 지창민 배우가 영화 '청설'과 홍경 배우를 좋아하는 이유\n✔ 인도에서 공연한다면 가장 먼저 선보이고 싶은 더보이즈의 노래는?\n✔ 한국과 파리 팬들의 응원 문화, 어떻게 다를까?\n✔ 30대에 열고 싶었던 사진전, 지금은 어떻게 준비하고 있을까?\n\n조급하지 않게, 천천히\n오래 나아가고 싶다는 지창민 배우의 진솔한 이야기!\n지금 볼드페이지에서 확인하세요!🎬✨"
+    },
+    "link": "https://www.youtube.com/watch?v=pgYsGzLYYhs"
   }
 ];
