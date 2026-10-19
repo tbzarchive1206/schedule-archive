@@ -2770,5 +2770,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "댕냥ZIP EP 4"
     },
     "link": "https://www.youtube.com/watch?v=8AGoZDa1aFg"
+  },
+  {
+    "id": "2026-11-03-dangnyangzip-ep5",
+    "title": {
+      "en": "Dangnyangzip EP5",
+      "ko": "댕냥ZIP EP.5"
+    },
+    "date": "2026-11-03",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "",
+    "location": "Youtube",
+    "description": {
+      "en": "Dangnyangzip EP5",
+      "ko": "댕냥ZIP EP.5"
+    },
+    "link": ""
   }
 ];
