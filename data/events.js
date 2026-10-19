@@ -2932,5 +2932,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "🔥내 최애는 내가 먹인다🔥 \n신개념 운동&먹방 예능 [번앤바이트(Burn & Bite)] 대망의 1화! \n\n첫 번째 게스트는 바로 더보이즈(THE BOYZ) 케빈 & 제이콥! 🌙🍐\n\n단풍즈 맛있는 거 하나라도 더 먹이려고 기꺼이 명예 태릉인 자처했다?! 💦우리는 뒤에서 피 땀 눈물 흘리며 오운완 할 테니까, 우리 단풍즈는 평온하게 오먹완 해! 🥰\n\n팬들의 '더비적 사고'를 200% 반영한 번앤바이트 첫 에피소드! 과연 제이콥과 케빈은 쏟아지는 땀방울(?) 속에서 무사히 식사를 마칠 수 있을까요?지금 바로 영상에서 확인해 보세요! 👀✨"
     },
     "link": "https://www.youtube.com/watch?v=RCZeN8ImxAE&t=3s"
+  },
+  {
+    "id": "2026-10-27-mbc-idol-radio-with-be-boys-ep-253",
+    "title": {
+      "en": "MBC Idol Radio with BE BOYS | EP 253",
+      "ko": "MBC 아이돌 라디오 비보이즈 | EP 253"
+    },
+    "date": "2026-10-27",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-10-27-mbc-idol-radio-with-be-boys-ep-253.jpg",
+    "location": "Youtube",
+    "description": {
+      "en": "MBC Idol Radio with BE BOYS | EP 253",
+      "ko": "MBC 아이돌 라디오 비보이즈 | EP 253"
+    },
+    "link": ""
   }
 ];
