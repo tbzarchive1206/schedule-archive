@@ -2955,5 +2955,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 비보이즈 | EP 253"
     },
     "link": ""
+  },
+  {
+    "id": "2026-11-15-ji-changmin-fanmeeting-in-japan",
+    "title": {
+      "en": "JI CHANGMIN FANMEETING IN JAPAN \"推しデビュー\"",
+      "ko": "JI CHANGMIN FANMEETING IN JAPAN \"推しデビュー\""
+    },
+    "date": "2026-11-15",
+    "time": "12:30",
+    "endTime": "",
+    "members": [
+      "q"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "assets/events/2026-11-15-ji-changmin-fanmeeting-in-japan.jpg",
+    "location": "Landmark Plaza 5F, 2-2-1 Minatomirai, Nishi-ku, Yokohama, Kanagawa",
+    "description": {
+      "en": "2026 JI CHANG MIN FANMEETING IN JAPAN “Oshi Debut” 🌸\n\n• Event Schedule & Venue\n\n🗓️ Date & Time: November 15, 2026 (SUN) – 13:30 / 17:30 (KST)\n\n📍 Venue: YOKOHAMA LANDMARK HALL\n\n(For more details regarding ticket sales, please check FCLIVE's official SNS accounts.)",
+      "ko": "2026 JI CHANG MIN FANMEETING IN JAPAN “推しデビュー” 🌸\n\n• 공연 일정 및 장소\n🗓️ 일시 : 2026.11.15.SUN 13:30 / 17:30 (KST)\n📍 장소 : YOKOHAMA LANDMARK HALL\n\n(* 티켓 판매에 관한 자세한 내용은 FCLIVE SNS에서 확인 부탁드립니다.)"
+    },
+    "link": "https://fclive.jp/dh_board/views/142"
   }
 ];
