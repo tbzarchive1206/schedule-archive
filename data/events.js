@@ -2978,5 +2978,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "2026 JI CHANG MIN FANMEETING IN JAPAN “推しデビュー” 🌸\n\n• 공연 일정 및 장소\n🗓️ 일시 : 2026.11.15.SUN 13:30 / 17:30 (KST)\n📍 장소 : YOKOHAMA LANDMARK HALL\n\n(* 티켓 판매에 관한 자세한 내용은 FCLIVE SNS에서 확인 부탁드립니다.)"
     },
     "link": "https://fclive.jp/dh_board/views/142"
+  },
+  {
+    "id": "2026-11-21-lee-jaehyun-fanmeeting-in-hongkong",
+    "title": {
+      "en": "LEE JAEHYUN FANMEETING IN HONGKONG",
+      "ko": "LEE JAEHYUN FANMEETING IN HONGKONG"
+    },
+    "date": "2026-11-21",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "hyunjae"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "assets/events/2026-11-21-lee-jaehyun-fanmeeting-in-hongkong.jpg",
+    "location": "",
+    "description": {
+      "en": "💌 Official Announcement | LEE JAE HYUN (HYUNJAE) FANMEETING IN HONG KONG\n\nThe long-awaited meeting is finally confirmed!\n\nLee Jaehyun (Hyunjae) will meet fans in Hong Kong on November 21!\n\n📅 Date: November 21, 2026\n📍 Location: Hong Kong\n🎫 Venue details, ticket sales schedule, and purchasing information will be announced gradually. Please stay tuned for official updates.\n\nNo matter how far apart we are, we're coming together for this special meeting. See you in Hong Kong on November 21! ✨",
+      "ko": "💌 공식 발표 | 이재현(현재) 홍콩 팬미팅 개최 확정\n\n오랫동안 기다려온 만남이 드디어 확정되었습니다!\n\n이재현(현재)이 11월 21일 홍콩에서 팬들과 만납니다!\n\n📅 공연 일자: 2026년 11월 21일\n📍 공연 지역: 홍콩\n🎫 공연장 정보, 티켓 예매 일정 및 예매 방법은 추후 순차적으로 공개될 예정이니 공식 공지를 확인해 주세요.\n\n산과 바다를 넘어, 오직 만남을 위해. 11월 21일 홍콩에서 서로를 향한 특별한 만남을 함께해요! ✨"
+    },
+    "link": "https://x.com/LuminaStarEnt/status/2113232785276371294"
   }
 ];
