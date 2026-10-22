@@ -2404,7 +2404,7 @@ window.SCHEDULE_EVENTS=[
   {
     "id": "2026-11-01-2026-film-take-sangyeon-station-in-hong-kong",
     "title": {
-      "en": "2026 FILM TAKE: Sangyeon Station in Hong Kong",
+      "en": "[POSTPONED] 2026 FILM TAKE: Sangyeon Station in Hong Kong",
       "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 홍콩"
     },
     "date": "2026-11-01",
@@ -2419,8 +2419,8 @@ window.SCHEDULE_EVENTS=[
     "thumbnail": "assets/events/2026-11-01-2026-film-take-sangyeon-station-in-hong-kong.jpg",
     "location": "AXA Dream Hall",
     "description": {
-      "en": "2026 FILM TAKE: Sangyeon Station in Hong Kong",
-      "ko": "2026 Film Take : 上淵展 ‘상연전(역)’ 인 홍콩"
+      "en": "[POSTPONED!] 2026 FILM TAKE: Sangyeon Station in Hong Kong",
+      "ko": "[연기됨!] 2026 Film Take : 上淵展 ‘상연전(역)’ 인 홍콩"
     },
     "link": "https://www.instagram.com/p/DeYwWTtj7Jz/"
   },
