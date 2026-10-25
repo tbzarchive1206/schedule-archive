@@ -3001,5 +3001,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "💌 공식 발표 | 이재현(현재) 홍콩 팬미팅 개최 확정\n\n오랫동안 기다려온 만남이 드디어 확정되었습니다!\n\n이재현(현재)이 11월 21일 홍콩에서 팬들과 만납니다!\n\n📅 공연 일자: 2026년 11월 21일\n📍 공연 지역: 홍콩\n🎫 공연장 정보, 티켓 예매 일정 및 예매 방법은 추후 순차적으로 공개될 예정이니 공식 공지를 확인해 주세요.\n\n산과 바다를 넘어, 오직 만남을 위해. 11월 21일 홍콩에서 서로를 향한 특별한 만남을 함께해요! ✨"
     },
     "link": "https://x.com/LuminaStarEnt/status/2113232785276371294"
+  },
+  {
+    "id": "2026-11-08-2026-jichangmin-fanmeeting-for-season",
+    "title": {
+      "en": "2026 JICHANGMIN FANMEETING <네 계절: For Season>",
+      "ko": "2026 지창민 팬미팅 <네 계절: For Season>"
+    },
+    "date": "2026-11-08",
+    "time": "15:00",
+    "endTime": "",
+    "members": [
+      "q"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "",
+    "location": "코엑스 아티움 우리은행홀",
+    "description": {
+      "en": "[NOTICE]\n\n2026 JI CHANGMIN FANMEETING [네 계절 : For Season] – Additional Show Announcement 📢\n\nA time to fill all four seasons together, you and me 🩵\n\nEveryone who loves spending every season with Ji Changmin is welcome!\n\n• Additional Show Date & Venue\n🗓️ Date & Time: November 8, 2026 (SUN) at 15:00 (KST)\n📍 Venue: COEX Artium Woori Bank Hall\n\n• Ticket Sales Information\n🗓️ Date & Time: October 23, 2026 (FRI) at 19:00 (KST)\n📍 Ticketing Platform: NOL WEB/APP\n\n(*For detailed ticketing information, please check the NOL website or official social media channels.)",
+      "ko": "[NOTICE]\n\n2026 JI CHANGMIN FANMEETING [네 계절 : For Season] 추가 회차 오픈 안내 📢\n\n너와 나의 사계절을 함께 채워가는 시간 🩵\n\n지창민과 함께하는 모든 계절을\n사랑하는 분들 환영합니다!\n\n• 추가 공연 일정 및 장소\n🗓️ 일시 : 2026.11.08.SUN 15:00 (KST)\n📍 장소 : 코엑스아티움 우리은행홀\n\n• 티켓 예매 오픈 안내\n🗓️ 일시 : 2026.10.23.FRI 19:00 (KST)\n📍 예매처 : NOL WEB/APP\n(* 티켓 예매 관련 상세 안내사항은 NOL 웹사이트 또는 SNS를 통해서 확인 가능합니다.)"
+    },
+    "link": "https://www.instagram.com/p/DevU4q1gIt1/"
   }
 ];
