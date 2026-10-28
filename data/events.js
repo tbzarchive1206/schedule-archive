@@ -3024,5 +3024,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "[NOTICE]\n\n2026 JI CHANGMIN FANMEETING [네 계절 : For Season] 추가 회차 오픈 안내 📢\n\n너와 나의 사계절을 함께 채워가는 시간 🩵\n\n지창민과 함께하는 모든 계절을\n사랑하는 분들 환영합니다!\n\n• 추가 공연 일정 및 장소\n🗓️ 일시 : 2026.11.08.SUN 15:00 (KST)\n📍 장소 : 코엑스아티움 우리은행홀\n\n• 티켓 예매 오픈 안내\n🗓️ 일시 : 2026.10.23.FRI 19:00 (KST)\n📍 예매처 : NOL WEB/APP\n(* 티켓 예매 관련 상세 안내사항은 NOL 웹사이트 또는 SNS를 통해서 확인 가능합니다.)"
     },
     "link": "https://www.instagram.com/p/DevU4q1gIt1/"
+  },
+  {
+    "id": "2026-11-20-sweet-tunes-special-guest-jacob-kbs-world-radio-",
+    "title": {
+      "en": "Sweet Tunes - Special Guest - JACOB | KBS WORLD Radio Indonesian",
+      "ko": "Sweet Tunes - Special Guest - JACOB | KBS WORLD Radio Indonesian"
+    },
+    "date": "2026-11-20",
+    "time": "14:00",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-11-20-sweet-tunes-special-guest-jacob-kbs-world-radio-.jpg",
+    "location": "KBS WORLD Indonesian",
+    "description": {
+      "en": "• November 20 – Jacob (THE BOYZ)\n\nJacob as a guest on an Indonesian-language broadcast?? Curious?\n\nTune in LIVE on Friday at 12:00 PM WIB on the KBS WORLD Indonesian YouTube channel!",
+      "ko": "• 11월 20일 – 제이콥 (THE BOYZ) 제이콥이 인도네시아어 방송에 게스트로 출연한다고?? 궁금하시죠?\n\n금요일 오후 12시(WIB), KBS WORLD Indonesian 유튜브 채널에서 LIVE로 만나요!"
+    },
+    "link": "https://www.instagram.com/p/DfB_e9fIPvx/?img_index=4"
   }
 ];
