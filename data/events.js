@@ -3047,5 +3047,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "• 11월 20일 – 제이콥 (THE BOYZ) 제이콥이 인도네시아어 방송에 게스트로 출연한다고?? 궁금하시죠?\n\n금요일 오후 12시(WIB), KBS WORLD Indonesian 유튜브 채널에서 LIVE로 만나요!"
     },
     "link": "https://www.instagram.com/p/DfB_e9fIPvx/?img_index=4"
+  },
+  {
+    "id": "2026-11-01-sopj-x-jacob-online-fansign",
+    "title": {
+      "en": "SOPJ x JACOB Online Fansign",
+      "ko": "SOPJ x JACOB Online Fansign"
+    },
+    "date": "2026-11-01",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "fansign"
+    ],
+    "thumbnail": "assets/events/2026-11-01-sopj-x-jacob-online-fansign.jpg",
+    "location": "",
+    "description": {
+      "en": "SOPJ x JACOB Online Fansign",
+      "ko": "SOPJ x JACOB Online Fansign"
+    },
+    "link": ""
   }
 ];
