@@ -3074,7 +3074,7 @@ window.SCHEDULE_EVENTS=[
   {
     "id": "2026-11-02-frotune-trip-q-sunwoo",
     "title": {
-      "en": "Frotune Trip - Q & SUNWOO",
+      "en": "Fortune Trip - Q & SUNWOO",
       "ko": "포춘트립 - 큐 선우 EP.1"
     },
     "date": "2026-11-02",
