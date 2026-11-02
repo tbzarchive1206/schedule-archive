@@ -3070,5 +3070,29 @@ window.SCHEDULE_EVENTS=[
       "ko": "SOPJ x JACOB Online Fansign"
     },
     "link": ""
+  },
+  {
+    "id": "2026-11-02-frotune-trip-q-sunwoo",
+    "title": {
+      "en": "Frotune Trip - Q & SUNWOO",
+      "ko": "포춘트립 - 큐 선우 EP.1"
+    },
+    "date": "2026-11-02",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "q",
+      "sunwoo"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "assets/events/2026-11-02-frotune-trip-q-sunwoo.jpg",
+    "location": "Youtube @ studio_MNF",
+    "description": {
+      "en": "What does Ppotto say when they see Fortune Trip for the first time in a while?",
+      "ko": "뽀또가 포춘트립을 오랜만에 봤을 때 하는 말은?"
+    },
+    "link": "https://www.youtube.com/watch?v=6UxMurv0O_Q"
   }
 ];
