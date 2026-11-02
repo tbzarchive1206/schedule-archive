@@ -3094,5 +3094,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "뽀또가 포춘트립을 오랜만에 봤을 때 하는 말은?"
     },
     "link": "https://www.youtube.com/watch?v=6UxMurv0O_Q"
+  },
+  {
+    "id": "2026-12-02-wifi-love-in-the-palace-premiere-at-cgv",
+    "title": {
+      "en": "\"WiFi Love in the Palace\" Premiere at CGV",
+      "ko": "러브 와이파이 궁 CGV 단독개봉"
+    },
+    "date": "2026-12-02",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "younghoon"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "assets/events/2026-12-02-wifi-love-in-the-palace-premiere-at-cgv.jpg",
+    "location": "CGV",
+    "description": {
+      "en": "\"WiFi Love in the Palace\" premieres exclusively at CGV on December 2.",
+      "ko": "러브 와이파이 궁 12월 2일 CGV 단독개봉"
+    },
+    "link": ""
   }
 ];
