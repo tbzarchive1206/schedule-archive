@@ -3017,7 +3017,7 @@ window.SCHEDULE_EVENTS=[
     "types": [
       "fanmeeting"
     ],
-    "thumbnail": "",
+    "thumbnail": "assets/events/2026-11-08-2026-jichangmin-fanmeeting-for-season.jpg",
     "location": "코엑스 아티움 우리은행홀",
     "description": {
       "en": "[NOTICE]\n\n2026 JI CHANGMIN FANMEETING [네 계절 : For Season] – Additional Show Announcement 📢\n\nA time to fill all four seasons together, you and me 🩵\n\nEveryone who loves spending every season with Ji Changmin is welcome!\n\n• Additional Show Date & Venue\n🗓️ Date & Time: November 8, 2026 (SUN) at 15:00 (KST)\n📍 Venue: COEX Artium Woori Bank Hall\n\n• Ticket Sales Information\n🗓️ Date & Time: October 23, 2026 (FRI) at 19:00 (KST)\n📍 Ticketing Platform: NOL WEB/APP\n\n(*For detailed ticketing information, please check the NOL website or official social media channels.)",
