@@ -3163,5 +3163,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "LEE JAEHYUN FANMEETING IN HONGKONG"
     },
     "link": ""
+  },
+  {
+    "id": "2026-11-03-younghoon-at-hublot-classic-fusion-tribute-launc",
+    "title": {
+      "en": "YOUNGHOON at Hublot Classic Fusion Tribute Launch Event",
+      "ko": "영훈 | 위블로 클래식 퓨전 트리뷰토 신제품 공개 행사"
+    },
+    "date": "2026-11-03",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "younghoon"
+    ],
+    "types": [
+      "brand"
+    ],
+    "thumbnail": "assets/events/2026-11-03-younghoon-at-hublot-classic-fusion-tribute-launc.jpg",
+    "location": "",
+    "description": {
+      "en": "YOUNGHOON at Hublot Classic Fusion Tribute Launch Event",
+      "ko": "영훈 | 위블로 클래식 퓨전 트리뷰토 신제품 공개 행사"
+    },
+    "link": ""
   }
 ];
