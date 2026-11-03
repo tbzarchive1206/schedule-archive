@@ -3186,5 +3186,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "영훈 | 위블로 클래식 퓨전 트리뷰토 신제품 공개 행사"
     },
     "link": ""
+  },
+  {
+    "id": "2026-10-28-mbc-idol-radio-with-and2ble-ep-254",
+    "title": {
+      "en": "MBC Idol Radio with AND2BLE | EP 254",
+      "ko": "MBC 아이돌 라디오 앤더블 | EP 254"
+    },
+    "date": "2026-10-28",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-10-19-mbc-idol-radio-with-yuju-ep-252.jpg",
+    "location": "",
+    "description": {
+      "en": "MBC Idol Radio with AND2BLE | EP 254",
+      "ko": "MBC 아이돌 라디오 앤더블 | EP 254"
+    },
+    "link": "https://t.co/1F1Ud5HpbM"
   }
 ];
