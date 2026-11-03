@@ -2786,13 +2786,13 @@ window.SCHEDULE_EVENTS=[
     "types": [
       "tv"
     ],
-    "thumbnail": "",
+    "thumbnail": "assets/events/2026-11-03-dangnyangzip-ep5.jpg",
     "location": "Youtube",
     "description": {
-      "en": "Dangnyangzip EP5",
-      "ko": "댕냥ZIP EP.5"
+      "en": "The first step in promoting adoption, taking profile photos‼️\nThe chaotic filming scene of the three people trying to capture the cuteness of these puppies, which is out of this world, on camera🐾\nWe took some pretty good shots🐶📸",
+      "ko": "입양 홍보의 첫걸음, 프로필 사진 찍기‼️\n\n이 세상 귀여움이 아닌 댕댕이들의 깜찍함을\n카메라에 담기 위한 세 사람의 우당탕탕 촬영 현장🐾\n\n예쁘게 잘 찍고 왔개🐶📸"
     },
-    "link": ""
+    "link": "https://www.youtube.com/watch?v=_nQD7d3r5B4"
   },
   {
     "id": "2026-10-19-mbc-idol-radio-with-yuju-ep-252",
