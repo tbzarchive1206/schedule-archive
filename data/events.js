@@ -3117,5 +3117,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "러브 와이파이 궁 12월 2일 CGV 단독개봉"
     },
     "link": ""
+  },
+  {
+    "id": "2026-11-16-dangnyangzip-ep-6",
+    "title": {
+      "en": "Dangnyangzip EP.6",
+      "ko": "댕냥ZIP EP.6"
+    },
+    "date": "2026-11-16",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "assets/events/2026-11-16-dangnyangzip-ep-6.jpg",
+    "location": "댕냥ZIP @ Youtube",
+    "description": {
+      "en": "Dangnyangzip EP.6",
+      "ko": "댕냥ZIP EP.6"
+    },
+    "link": ""
   }
 ];
