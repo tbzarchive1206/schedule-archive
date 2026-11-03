@@ -3140,5 +3140,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "댕냥ZIP EP.6"
     },
     "link": ""
+  },
+  {
+    "id": "2026-11-22-lee-jaehyun-fanmeeting-in-hongkong",
+    "title": {
+      "en": "LEE JAEHYUN FANMEETING IN HONGKONG",
+      "ko": "LEE JAEHYUN FANMEETING IN HONGKONG"
+    },
+    "date": "2026-11-22",
+    "time": "09:00",
+    "endTime": "16:00",
+    "members": [
+      "hyunjae"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "assets/events/2026-11-21-lee-jaehyun-fanmeeting-in-hongkong.jpg",
+    "location": "",
+    "description": {
+      "en": "LEE JAEHYUN FANMEETING IN HONGKONG",
+      "ko": "LEE JAEHYUN FANMEETING IN HONGKONG"
+    },
+    "link": ""
   }
 ];
