@@ -3255,5 +3255,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "THE BOYZ 제이콥이 솔로 쇼케이스 ‘More Than Words’로 싱가포르를 찾아옵니다! 제이콥과 함께할 특별한 저녁을 기대해 주세요!\n\nTHE BOYZ의 멤버로서 전 세계 팬들을 사로잡아 온 제이콥이 솔로 아티스트로서 새로운 장을 열어갑니다. 첫 솔로 EP ‘j.’와 타이틀곡 ‘Slow Dancing’을 통해 한층 더 개인적인 음악적 색깔을 선보이며, 부드러운 음색과 진솔한 작사, 편안하게 즐길 수 있는 음악에 대한 애정을 담아냈습니다.\n\n‘More Than Words’는 단순한 쇼케이스를 넘어, 제이콥이 자신의 음악을 나누고 팬들에게 감사한 마음을 전하며 더욱 가까이에서 소통할 수 있는 특별한 자리입니다. 음악과 의미 있는 순간들로 가득한 이번 공연에서 솔로 아티스트로서 제이콥의 또 다른 매력을 만나고, 함께 잊지 못할 소중한 추억을 만들어 보세요.\n\n싱가포르에서 펼쳐질 제이콥의 라이브 무대를 놓치지 마세요!"
     },
     "link": "https://megatix.asia/events/jacobmorethanwordssg"
+  },
+  {
+    "id": "2026-11-08-eric-exclusive-practice-room-xhs-livestream",
+    "title": {
+      "en": "ERIC Exclusive Practice Room XHS Livestream",
+      "ko": "에릭 단독 연습실 라이브 샤오홍슈 라방"
+    },
+    "date": "2026-11-08",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "other"
+    ],
+    "thumbnail": "assets/events/2026-11-08-eric-exclusive-practice-room-xhs-livestream.jpg",
+    "location": "",
+    "description": {
+      "en": "[THE B: What have you got planned for November?]\n\nDear THE B, it's an exclusive practice room livestream with #CharmingSonYoungjae 🌷\n\nJust adding ERIC's exclusive livestream to the schedule is enough to make November such a happy month~!\n\n🕔 November 8, 8:00 PM (Beijing Time)\n\nSee you in the practice room with @Son Youngjae ERIC! ❤️",
+      "ko": "[더비: 11월에는 어떤 일정이 있나요?]\n\n더비 여러분, 바로 #꽃미남손영재의 단독 연습실 라이브 방송입니다🌷\n\n에릭의 단독 라이브 방송 하나만으로도 이렇게 행복한 11월이 되었네요~!\n\n🕔 11월 8일 오후 8시 (중국 시간)\n\n@손영재 ERIC과 함께 연습실에서 만나요! ❤️"
+    },
+    "link": "https://www.rednote.com/discovery/item/6ae835af00000000190373d5?source=webshare&xhsshare=pc_web&xsec_token=AB2E_w7dYhaGcluuUN0K1xr69WNlXfRcvlqGyTd7TzBHQ=&xsec_source=pc_share"
   }
 ];
