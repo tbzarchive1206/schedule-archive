@@ -3209,5 +3209,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 앤더블 | EP 254"
     },
     "link": "https://t.co/1F1Ud5HpbM"
+  },
+  {
+    "id": "2027-01-19-jacob-more-than-words-showcase-in-manila",
+    "title": {
+      "en": "JACOB <MORE THAN WORDS> Showcase in Manila",
+      "ko": "제이콥 <MORE THAN WORDS> 쇼케이스 인 마닐라"
+    },
+    "date": "2027-01-19",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "showcase"
+    ],
+    "thumbnail": "assets/events/2027-01-19-jacob-more-than-words-showcase-in-manila.jpg",
+    "location": "Music Museum",
+    "description": {
+      "en": "Get ready for a special evening with JACOB of THE BOYZ as he brings his first solo Asia showcase, “More Than Words,” to Manila!\n\nAfter captivating fans around the world as a member of THE BOYZ, JACOB embarked on his solo journey in June 2026 with his debut digital EP, “J.” Featuring his title track “Slow Dancing,” the release showcases a more personal side of his artistry, highlighting his warm vocals, heartfelt songwriting, and distinctive musical style.\n\nInspired by the idea of expressing feelings that go beyond words, “More Than Words” offers fans a closer look at JACOB as a solo artist through his music, live performances, and personal interactions. Don’t miss this opportunity to share an intimate and memorable experience with JACOB in Manila!",
+      "ko": "THE BOYZ의 제이콥이 첫 아시아 솔로 쇼케이스 ‘More Than Words’로 마닐라를 찾아옵니다! 제이콥과 함께할 특별한 저녁을 기대해 주세요!\n\nTHE BOYZ의 멤버로서 전 세계 팬들을 사로잡아 온 제이콥은 2026년 6월, 첫 디지털 EP ‘J.’를 발매하며 솔로 아티스트로서의 새로운 여정을 시작했습니다. 타이틀곡 ‘Slow Dancing’을 포함한 이번 앨범은 제이콥의 따뜻한 음색과 진솔한 작사, 독보적인 음악적 스타일을 담아내며 아티스트로서 한층 더 개인적인 면모를 보여줍니다.\n\n말로 다 표현할 수 없는 감정을 전한다는 의미에서 탄생한 ‘More Than Words’는 음악과 라이브 무대, 팬들과의 직접적인 소통을 통해 솔로 아티스트 제이콥의 새로운 매력을 더욱 가까이에서 느낄 수 있는 특별한 자리입니다. 마닐라에서 제이콥과 함께 잊지 못할 소중하고 특별한 추억을 만들 기회를 놓치지 마세요!"
+    },
+    "link": "https://megatix.asia/events/jacobmorethanwordsph"
   }
 ];
