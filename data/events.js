@@ -3232,5 +3232,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "THE BOYZ의 제이콥이 첫 아시아 솔로 쇼케이스 ‘More Than Words’로 마닐라를 찾아옵니다! 제이콥과 함께할 특별한 저녁을 기대해 주세요!\n\nTHE BOYZ의 멤버로서 전 세계 팬들을 사로잡아 온 제이콥은 2026년 6월, 첫 디지털 EP ‘J.’를 발매하며 솔로 아티스트로서의 새로운 여정을 시작했습니다. 타이틀곡 ‘Slow Dancing’을 포함한 이번 앨범은 제이콥의 따뜻한 음색과 진솔한 작사, 독보적인 음악적 스타일을 담아내며 아티스트로서 한층 더 개인적인 면모를 보여줍니다.\n\n말로 다 표현할 수 없는 감정을 전한다는 의미에서 탄생한 ‘More Than Words’는 음악과 라이브 무대, 팬들과의 직접적인 소통을 통해 솔로 아티스트 제이콥의 새로운 매력을 더욱 가까이에서 느낄 수 있는 특별한 자리입니다. 마닐라에서 제이콥과 함께 잊지 못할 소중하고 특별한 추억을 만들 기회를 놓치지 마세요!"
     },
     "link": "https://megatix.asia/events/jacobmorethanwordsph"
+  },
+  {
+    "id": "2027-01-21-jacob-more-than-words-showcase-in-singapore",
+    "title": {
+      "en": "JACOB <MORE THAN WORDS> Showcase in Singapore",
+      "ko": "제이콥 <MORE THAN WORDS> 쇼케이스 인 싱가포르"
+    },
+    "date": "2027-01-21",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "showcase"
+    ],
+    "thumbnail": "assets/events/2027-01-21-jacob-more-than-words-showcase-in-singapore.jpg",
+    "location": "Foo Chow Hall",
+    "description": {
+      "en": "et ready for a special evening with JACOB of THE BOYZ as he brings his solo showcase, “More Than Words,” to Singapore!\n\nAfter captivating fans worldwide as a member of THE BOYZ, JACOB is stepping into a new chapter as a solo artist. With his debut solo EP, “j.,” and title track “Slow Dancing,” he explores a more personal musical style, showcasing his smooth vocals, heartfelt songwriting, and love for easy-listening music.\n\n“More Than Words” is more than a showcase — it’s an opportunity for JACOB to share his music, express his gratitude, and connect with fans on a more personal level. Join him for an intimate and memorable experience filled with music, meaningful moments, and the chance to see a different side of JACOB as a solo artist.\n\nDon’t miss JACOB live in Singapore!",
+      "ko": "THE BOYZ 제이콥이 솔로 쇼케이스 ‘More Than Words’로 싱가포르를 찾아옵니다! 제이콥과 함께할 특별한 저녁을 기대해 주세요!\n\nTHE BOYZ의 멤버로서 전 세계 팬들을 사로잡아 온 제이콥이 솔로 아티스트로서 새로운 장을 열어갑니다. 첫 솔로 EP ‘j.’와 타이틀곡 ‘Slow Dancing’을 통해 한층 더 개인적인 음악적 색깔을 선보이며, 부드러운 음색과 진솔한 작사, 편안하게 즐길 수 있는 음악에 대한 애정을 담아냈습니다.\n\n‘More Than Words’는 단순한 쇼케이스를 넘어, 제이콥이 자신의 음악을 나누고 팬들에게 감사한 마음을 전하며 더욱 가까이에서 소통할 수 있는 특별한 자리입니다. 음악과 의미 있는 순간들로 가득한 이번 공연에서 솔로 아티스트로서 제이콥의 또 다른 매력을 만나고, 함께 잊지 못할 소중한 추억을 만들어 보세요.\n\n싱가포르에서 펼쳐질 제이콥의 라이브 무대를 놓치지 마세요!"
+    },
+    "link": "https://megatix.asia/events/jacobmorethanwordssg"
   }
 ];
