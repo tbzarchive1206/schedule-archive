@@ -3278,5 +3278,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "[더비: 11월에는 어떤 일정이 있나요?]\n\n더비 여러분, 바로 #꽃미남손영재의 단독 연습실 라이브 방송입니다🌷\n\n에릭의 단독 라이브 방송 하나만으로도 이렇게 행복한 11월이 되었네요~!\n\n🕔 11월 8일 오후 8시 (중국 시간)\n\n@손영재 ERIC과 함께 연습실에서 만나요! ❤️"
     },
     "link": "https://www.rednote.com/discovery/item/6ae835af00000000190373d5?source=webshare&xhsshare=pc_web&xsec_token=AB2E_w7dYhaGcluuUN0K1xr69WNlXfRcvlqGyTd7TzBHQ=&xsec_source=pc_share"
+  },
+  {
+    "id": "2026-11-15-eric-baby-pink-letter-exhibition-fansign-event-s",
+    "title": {
+      "en": "ERIC Baby Pink Letter Exhibition Fansign Event (Soundwave)",
+      "ko": "ERIC Baby Pink Letter Exhibition 팬사인회 (사운드웨이브)"
+    },
+    "date": "2026-11-15",
+    "time": "20:00",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "fansign"
+    ],
+    "thumbnail": "assets/events/2026-11-15-eric-baby-pink-letter-exhibition-fansign-event-s.jpg",
+    "location": "",
+    "description": {
+      "en": "BABY PINK LETTER EXHIBITION FAN SIGN EVENT",
+      "ko": "[온라인몰] [1115 대면/영통] 에릭(ERIC)"
+    },
+    "link": "https://x.com/soundwave_korea/status/2117859388702798290"
   }
 ];
