@@ -3324,5 +3324,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "💌 NEOGEN X SUNWOO SPECIAL EVENT\n\n선우와 마주하는 특별한 순간! 💖\n\n올리브영에서 네오젠 선우 PICK 제품 구매하고\n선우와 함께하는 페이스타임 팬사인회에 응모하세요!\n\n추첨을 통해 단 20분께\n선우와 특별한 시간을 선물합니다.✨\n\n📅 구매 기간\n11.16(월) 11:00 – 11.22(일) 23:59\n\n📝 응모 기간\n11.16(월) 11:00 – 11.25(수) 23:59\n\n🎁 응모 방법\n올리브영 온라인몰 및 APP에서\n볼륨 메탈 마스카라(단품) + 넥스트 글로우 수분크림 포함 \n5만 원 이상 구매 후 응모폼 작성!\n\n🎉 당첨 인원 : 총 20명\n📢 당첨자 발표 : 12.08(화)\n💖 팬사인회 : 12.15(화) *변동될 수 있음."
     },
     "link": "https://x.com/neogen_official/status/2119713936865902607"
+  },
+  {
+    "id": "2026-11-28-eric-baby-pink-letter-exhibition-fansign-photo-e",
+    "title": {
+      "en": "ERIC 'Baby Pink Letter Exhibition' FANSIGN & PHOTO EVENT IN FOSHAN",
+      "ko": "에릭 'Baby Pink Letter Exhibition' 포산 팬사인회 & 포토회 이벤트"
+    },
+    "date": "2026-11-28",
+    "time": "16:00",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "fansign"
+    ],
+    "thumbnail": "assets/events/2026-11-28-eric-baby-pink-letter-exhibition-fansign-photo-e.webp",
+    "location": "FOSHAN",
+    "description": {
+      "en": "💌 Foshan Fansign & Photo Event Applications Are Now Open!\n\n🗓️ Event Schedule (CST)\n✍🏻 Part 1 – Fansign Event: Nov 28, 2026 (Sat) at 16:00\n📸 Part 2 – Photo Event: Nov 28, 2026 (Sat) at 18:00\n\n🎟️ Part 1 – Fansign Event: 150 participants (50 fansign winners + 100 audience members)\n📷 Part 2 – Photo Event: 20 participants (including 2 special winners)\n\n🎀 MAKESTAR Special Benefits\n- Unreleased selfie photocards featuring handwritten Chinese messages\n- Fansign Q&A and HI-BYE event\n- 1:1 wide Polaroid photo with ERIC\n- Various exclusive benefits for special winners\n📆 Application Deadline: Nov 16, 2026 (Mon) at 00:59 KST\n🔗 bit.ly/4k99fOf",
+      "ko": "💌 포산 팬사인회 & 포토회 이벤트 응모 오픈!\n\n🗓️ 이벤트 일시 (CST)\n✍🏻 1부 팬사인회: 2026.11.28 (토) 16:00\n📸 2부 포토회: 2026.11.28 (토) 18:00\n\n🎟️ 1부 팬사인회 - 총 150명 (사인 50명 + 관람 100명)\n📷 2부 포토회 - 총 20명 (스페셜 2명 포함)\n\n🎀 MAKESTAR 특전\n- 미공개 중국어 손글씨 셀카 포토카드\n- 팬사인회 Q&A 및 HI-BYE 이벤트\n- ERIC과 1:1 와이드 폴라로이드 촬영\n- 다양한 스페셜 당첨자 특전\n\n📆~ 2026.11.16 (월) 00:59 (KST)\n🔗bit.ly/4k99fOf"
+    },
+    "link": "https://x.com/Makestarcorp/status/2120396233256923573"
   }
 ];
