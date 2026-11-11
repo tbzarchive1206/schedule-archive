@@ -3301,5 +3301,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "[온라인몰] [1115 대면/영통] 에릭(ERIC)"
     },
     "link": "https://x.com/soundwave_korea/status/2117859388702798290"
+  },
+  {
+    "id": "2026-12-15-neogen-x-sunwoo-facetime-event",
+    "title": {
+      "en": "NEOGEN X SUNWOO Facetime Event",
+      "ko": "네오젠 X 선우 페이스타임 이벤트"
+    },
+    "date": "2026-12-15",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "sunwoo"
+    ],
+    "types": [
+      "videocall"
+    ],
+    "thumbnail": "assets/events/2026-12-15-neogen-x-sunwoo-facetime-event.webp",
+    "location": "",
+    "description": {
+      "en": "💌 NEOGEN X SUNWOO SPECIAL EVENT\n\nA special moment face-to-face with Sunwoo! 💖\n\nPurchase NEOGEN products picked by Sunwoo at Olive Young and enter for a chance to join a FaceTime fansign event with him!\n\nOnly 20 lucky winners will be selected to enjoy a special moment with Sunwoo. ✨\n\n📅 Purchase Period\nNov 16 (Mon) 11:00 AM – Nov 22 (Sun) 11:59 PM\n\n📝 Application Period\nNov 16 (Mon) 11:00 AM – Nov 25 (Wed) 11:59 PM\n\n🎁 How to Enter\nSpend at least 50,000 KRW on the Olive Young online store or app, including both the Volume Metal Mascara (single item) and Next Glow Moisture Cream, then fill out the application form!\n\n🎉 Number of Winners: 20\n📢 Winner Announcement: Dec 8 (Tue)\n💖 FaceTime Fansign Event: Dec 15 (Tue) Subject to change.",
+      "ko": "💌 NEOGEN X SUNWOO SPECIAL EVENT\n\n선우와 마주하는 특별한 순간! 💖\n\n올리브영에서 네오젠 선우 PICK 제품 구매하고\n선우와 함께하는 페이스타임 팬사인회에 응모하세요!\n\n추첨을 통해 단 20분께\n선우와 특별한 시간을 선물합니다.✨\n\n📅 구매 기간\n11.16(월) 11:00 – 11.22(일) 23:59\n\n📝 응모 기간\n11.16(월) 11:00 – 11.25(수) 23:59\n\n🎁 응모 방법\n올리브영 온라인몰 및 APP에서\n볼륨 메탈 마스카라(단품) + 넥스트 글로우 수분크림 포함 \n5만 원 이상 구매 후 응모폼 작성!\n\n🎉 당첨 인원 : 총 20명\n📢 당첨자 발표 : 12.08(화)\n💖 팬사인회 : 12.15(화) *변동될 수 있음."
+    },
+    "link": "https://x.com/neogen_official/status/2119713936865902607"
   }
 ];
