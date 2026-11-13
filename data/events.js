@@ -3347,5 +3347,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "💌 포산 팬사인회 & 포토회 이벤트 응모 오픈!\n\n🗓️ 이벤트 일시 (CST)\n✍🏻 1부 팬사인회: 2026.11.28 (토) 16:00\n📸 2부 포토회: 2026.11.28 (토) 18:00\n\n🎟️ 1부 팬사인회 - 총 150명 (사인 50명 + 관람 100명)\n📷 2부 포토회 - 총 20명 (스페셜 2명 포함)\n\n🎀 MAKESTAR 특전\n- 미공개 중국어 손글씨 셀카 포토카드\n- 팬사인회 Q&A 및 HI-BYE 이벤트\n- ERIC과 1:1 와이드 폴라로이드 촬영\n- 다양한 스페셜 당첨자 특전\n\n📆~ 2026.11.16 (월) 00:59 (KST)\n🔗bit.ly/4k99fOf"
     },
     "link": "https://x.com/Makestarcorp/status/2120396233256923573"
+  },
+  {
+    "id": "2026-12-24-the-boyz-concert-day1",
+    "title": {
+      "en": "THE BOYZ CONCERT DAY1",
+      "ko": "더보이즈 콘서트 DAY1"
+    },
+    "date": "2026-12-24",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "the-boyz"
+    ],
+    "types": [
+      "concert"
+    ],
+    "thumbnail": "assets/events/2026-12-24-the-boyz-concert-day1.jpg",
+    "location": "KSPO Dome",
+    "description": {
+      "en": "THE BOYZ CONCERT DAY1",
+      "ko": "더보이즈 콘서트 DAY1"
+    },
+    "link": "https://www.news1.kr/entertain/music/6353697"
   }
 ];
