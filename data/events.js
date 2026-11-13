@@ -3397,11 +3397,11 @@ window.SCHEDULE_EVENTS=[
   {
     "id": "2026-12-26-the-boyz-concert-day3",
     "title": {
-      "en": "THE BOYZ CONCERT DAY3",
-      "ko": "더보이즈 콘서트 DAY3"
+      "en": "THE BOYZ CONCERT : ZENERATION Ⅲ (DAY3)",
+      "ko": "더보이즈 콘서트 ZENERATION Ⅲ (DAY3)"
     },
     "date": "2026-12-26",
-    "time": "",
+    "time": "17:00",
     "endTime": "",
     "members": [
       "the-boyz"
@@ -3409,13 +3409,13 @@ window.SCHEDULE_EVENTS=[
     "types": [
       "concert"
     ],
-    "thumbnail": "assets/events/2026-12-26-the-boyz-concert-day3.jpg",
+    "thumbnail": "assets/events/2026-12-26-the-boyz-concert-day3.webp",
     "location": "KSPO Dome",
     "description": {
-      "en": "THE BOYZ CONCERT DAY3",
-      "ko": "더보이즈 콘서트 DAY3"
+      "en": "THE BOYZ CONCERT : ZENERATION Ⅲ\n\n♾ Concert Dates\nDecember 24 (THU) – 27 (SUN), 2026 @ KSPO DOME\n\n♾ Ticketing Notice\nNovember 16 (MON), 2026 at 2:00 PM KST\n\n♾ Ticketing Schedule\n\nDomestic Fanclub Presale: November 23 (MON), 2026 at 8:00 PM KST\n\nGlobal Fanclub Presale: November 24 (TUE), 2026 at 8:00 PM KST\n\nGeneral Sale: November 25 (WED), 2026 at 8:00 PM KST\n\n♾ Ticketing Platform\nMelon Ticket (Exclusive)",
+      "ko": "THE BOYZ CONCERT : ZENERATION Ⅲ\n\n♾ 공연 일정\n 2026.12.24 (THU) ~ 27 (SUN) @ KSPO DOME\n\n♾ 예매 공지\n2026.11.16 (MON) 14:00 KST\n\n♾ 예매 일정\n국내 페이지 팬클럽 선예매: 2026.11.23 (MON) 20:00 KST\n글로벌 페이지 팬클럽 선예매: 2026.11.24 (TUE) 20:00 KST\n일반 예매: 2026.11.25 (WED) 20:00 KST\n\n♾ 예매처\n멜론티켓(단독)"
     },
-    "link": ""
+    "link": "https://x.com/officl_theboyz/status/2121166202235920557"
   },
   {
     "id": "2026-12-27-the-boyz-concert-day4",
