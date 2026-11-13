@@ -3393,5 +3393,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "더보이즈 콘서트 DAY2"
     },
     "link": "https://www.news1.kr/entertain/music/6353697"
+  },
+  {
+    "id": "2026-12-26-the-boyz-concert-day3",
+    "title": {
+      "en": "THE BOYZ CONCERT DAY3",
+      "ko": "더보이즈 콘서트 DAY3"
+    },
+    "date": "2026-12-26",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "the-boyz"
+    ],
+    "types": [
+      "concert"
+    ],
+    "thumbnail": "assets/events/2026-12-26-the-boyz-concert-day3.jpg",
+    "location": "KSPO Dome",
+    "description": {
+      "en": "THE BOYZ CONCERT DAY3",
+      "ko": "더보이즈 콘서트 DAY3"
+    },
+    "link": ""
   }
 ];
