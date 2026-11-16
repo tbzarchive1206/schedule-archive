@@ -3133,11 +3133,11 @@ window.SCHEDULE_EVENTS=[
     "types": [
       "tv"
     ],
-    "thumbnail": "assets/events/2026-11-16-dangnyangzip-ep-6.jpg",
+    "thumbnail": "assets/events/2026-11-16-dangnyangzip-ep-6.webp",
     "location": "댕냥ZIP @ Youtube",
     "description": {
-      "en": "Dangnyangzip EP.6",
-      "ko": "댕냥ZIP EP.6"
+      "en": "On a beautiful day, two dog dads went for a walk… or did the dogs walk them? 🐾\n\nBig dogs, even bigger cuteness, and tails spinning like propellers nonstop 💘\n\nAaaand…\n\nThe day we thought would never come: the Dangnyang ZIP Season 1 finale 🥹💦\n\nWe’ll be back for Season 2 with even more to share and more adorable friends to meet‼️\n\nThe kitties are joining us next time, too, so hang tight a little longer 🐱🐶👀💞",
+      "ko": "날씨 좋은 날 산책 당한(?) 두 댕집사들의\n꼬리 프로펠러 무한 가동시킨 왕크 왕귀 시간💘\n\n그.리.고\n\n영원히 안 올 줄 알았던 '댕냥ZIP' 시즌 1의 마지막 시간🥹💦\n\n더 알차고 귀여운 아이들과 함께 시즌 2로 돌아옵니다‼️\n그땐 냥이들도 함께할 테니 조금만 기다려 주개🐱🐶👀💞"
     },
     "link": ""
   },
