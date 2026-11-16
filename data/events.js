@@ -3462,5 +3462,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "MBC 아이돌 라디오 앰퍼샌드원 | EP 257"
     },
     "link": "https://t.co/33jh01SkyX"
+  },
+  {
+    "id": "2026-11-30-jacob-bae-gives-you-hell-digital-single-release",
+    "title": {
+      "en": "Jacob Bae - gives you hell (Digital Single) Release",
+      "ko": "제이콥 배 - gives you hell (디지털 싱글) 발매"
+    },
+    "date": "2026-11-30",
+    "time": "18:00",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "album"
+    ],
+    "thumbnail": "assets/events/2026-11-30-jacob-bae-gives-you-hell-digital-single-release.webp",
+    "location": "",
+    "description": {
+      "en": "Jacob Bae - gives you hell (Digital Single) Release",
+      "ko": "제이콥 배 - gives you hell (디지털 싱글) 발매"
+    },
+    "link": "https://x.com/jakeybaeee/status/2119445052930035931"
   }
 ];
