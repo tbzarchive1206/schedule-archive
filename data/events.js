@@ -3439,5 +3439,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "THE BOYZ CONCERT : ZENERATION Ⅲ\n\n♾ 공연 일정\n 2026.12.24 (THU) ~ 27 (SUN) @ KSPO DOME\n\n♾ 예매 공지\n2026.11.16 (MON) 14:00 KST\n\n♾ 예매 일정\n국내 페이지 팬클럽 선예매: 2026.11.23 (MON) 20:00 KST\n글로벌 페이지 팬클럽 선예매: 2026.11.24 (TUE) 20:00 KST\n일반 예매: 2026.11.25 (WED) 20:00 KST\n\n♾ 예매처\n멜론티켓(단독)"
     },
     "link": "https://x.com/officl_theboyz/status/2121166202235920557"
+  },
+  {
+    "id": "2026-11-25-mbc-idol-radio-with-ampers-one-ep-257",
+    "title": {
+      "en": "MBC Idol Radio with AMPERS&ONE | EP 257",
+      "ko": "MBC 아이돌 라디오 앰퍼샌드원 | EP 257"
+    },
+    "date": "2026-11-25",
+    "time": "21:00",
+    "endTime": "",
+    "members": [
+      "eric"
+    ],
+    "types": [
+      "radio"
+    ],
+    "thumbnail": "assets/events/2026-11-25-mbc-idol-radio-with-ampers-one-ep-257.webp",
+    "location": "Youtube",
+    "description": {
+      "en": "MBC Idol Radio with AMPERS&ONE | EP 257",
+      "ko": "MBC 아이돌 라디오 앰퍼샌드원 | EP 257"
+    },
+    "link": "https://t.co/33jh01SkyX"
   }
 ];
