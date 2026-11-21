@@ -3485,5 +3485,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "제이콥 배 - gives you hell (디지털 싱글) 발매"
     },
     "link": "https://x.com/jakeybaeee/status/2119445052930035931"
+  },
+  {
+    "id": "2026-11-27-jacob-bae-gives-you-hell-listening-party",
+    "title": {
+      "en": "Jacob Bae ‘gives you hell’ Listening Party",
+      "ko": "제이콥 ‘Gives You Hell’ 리스닝 파티"
+    },
+    "date": "2026-11-27",
+    "time": "21:45",
+    "endTime": "",
+    "members": [
+      "jacob"
+    ],
+    "types": [
+      "other"
+    ],
+    "thumbnail": "assets/events/2026-11-27-jacob-bae-gives-you-hell-listening-party.jpg",
+    "location": "SFACTORY Live",
+    "description": {
+      "en": "Jacob Bae ‘gives you hell’ Listening Party\n\n📆 2026, November 27\n📍 SFACTORY Live\n⏰ 9:45 PM KST\n\nTicketing info:\nhttps://momoboard.com/sfactorylive/events/\n2026, November 21 at 2PM KST",
+      "ko": "제이콥 ‘Gives You Hell’ 리스닝 파티\n\n📆 2026년 11월 27일\n📍 SFACTORY Live\n⏰ 오후 9시 45분 (KST)\n\n티켓 예매 정보:\nhttps://momoboard.com/sfactorylive/events/\n2026년 11월 21일 오후 2시 (KST)"
+    },
+    "link": "https://www.instagram.com/p/Df1wCYNtVly/"
   }
 ];
