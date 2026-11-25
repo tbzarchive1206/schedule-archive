@@ -3555,5 +3555,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "2027 JICAHNGMIN FANMEETING <四季：For Season> in TOKYO\n\nಇ ＼ ⊹₊⟡⋆ W회원 선예매 시작 ⊹₊⟡⋆ ／ಇ\n\nW회원 선예매가 시작되었습니다!\n응모 기간: 11월 26일 (목) 23:59까지\n\n📅 2027년 1월 16일 (토)\n📍 TFT HALL 1000\n1부 개장 13:00 / 공연 시작 14:00\n2부 개장 17:00 / 공연 시작 18:00\n\n🐿️ 자세한 내용은 여기서 확인하세요.\nhttps://t.co/QUa0YgXCm0"
     },
     "link": "https://x.com/THEBOYZJAPAN/status/2124790062462431259"
+  },
+  {
+    "id": "2026-11-29-wifi-love-in-the-palace-premiere-stage-greeting",
+    "title": {
+      "en": "\"WiFi Love in the Palace\" Premiere Stage Greeting",
+      "ko": "러브 와이파이 궁 프리미어 무대인사"
+    },
+    "date": "2026-11-29",
+    "time": "11:00",
+    "endTime": "",
+    "members": [
+      "younghoon"
+    ],
+    "types": [
+      "other"
+    ],
+    "thumbnail": "assets/events/2026-11-29-wifi-love-in-the-palace-premiere-stage-greeting.jpg",
+    "location": "CGV",
+    "description": {
+      "en": "\"WiFi Love in the Palace\" Premiere Stage Greeting",
+      "ko": "러브 와이파이 궁 프리미어 무대인사"
+    },
+    "link": "https://cgv.co.kr/evt/eventDetail?evntNo=202611171931"
   }
 ];
