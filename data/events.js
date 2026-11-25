@@ -3508,5 +3508,29 @@ window.SCHEDULE_EVENTS=[
       "ko": "제이콥 ‘Gives You Hell’ 리스닝 파티\n\n📆 2026년 11월 27일\n📍 SFACTORY Live\n⏰ 오후 9시 45분 (KST)\n\n티켓 예매 정보:\nhttps://momoboard.com/sfactorylive/events/\n2026년 11월 21일 오후 2시 (KST)"
     },
     "link": "https://www.instagram.com/p/Df1wCYNtVly/"
+  },
+  {
+    "id": "2026-11-27-k-boleh-show-with-jacob-and-kevin",
+    "title": {
+      "en": "K-Boleh Show with JACOB and KEVIN",
+      "ko": "K-Boleh Show with JACOB and KEVIN"
+    },
+    "date": "2026-11-27",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "jacob",
+      "kevin"
+    ],
+    "types": [
+      "tv"
+    ],
+    "thumbnail": "",
+    "location": "K-Boleh Show Youtube Channel",
+    "description": {
+      "en": "You guessed it right, didn't you? 👀 It's Jacob and Kevin from The Boyz! Catch them on K-BOLEH Show this Friday, 27 November! Look out for the new episode drop soon!",
+      "ko": "You guessed it right, didn't you? 👀 It's Jacob and Kevin from The Boyz! Catch them on K-BOLEH Show this Friday, 27 November! Look out for the new episode drop soon!"
+    },
+    "link": "https://www.instagram.com/p/DgJn2G5RXPz/"
   }
 ];
