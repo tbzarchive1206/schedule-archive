@@ -3532,5 +3532,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "You guessed it right, didn't you? 👀 It's Jacob and Kevin from The Boyz! Catch them on K-BOLEH Show this Friday, 27 November! Look out for the new episode drop soon!"
     },
     "link": "https://www.instagram.com/p/DgJn2G5RXPz/"
+  },
+  {
+    "id": "2027-01-16-2027-jicahngmin-fanmeeting-for-season-in-tokyo",
+    "title": {
+      "en": "2027 JICAHNGMIN FANMEETING <四季：For Season> in TOKYO",
+      "ko": "2027 JICAHNGMIN FANMEETING <四季：For Season> in TOKYO"
+    },
+    "date": "2027-01-16",
+    "time": "14:00",
+    "endTime": "",
+    "members": [
+      "q"
+    ],
+    "types": [
+      "fanmeeting"
+    ],
+    "thumbnail": "assets/events/2027-01-16-2027-jicahngmin-fanmeeting-for-season-in-tokyo.jpg",
+    "location": "TFT HALL 1000",
+    "description": {
+      "en": "2027 JICAHNGMIN FANMEETING <四季：For Season> in TOKYO\n\nಇ ＼ ⊹₊⟡⋆ W MEMBERSHIP PRESALE NOW OPEN ⊹₊⟡⋆ ／ಇ\n\nThe W Membership presale is now open!\nApplication deadline: November 26 (Thu) at 11:59 PM JST\n\n📅 January 16, 2027 (Sat)\n📍 TFT HALL 1000\nShow 1: Doors open at 1:00 PM / Show starts at 2:00 PM\nShow 2: Doors open at 5:00 PM / Show starts at 6:00 PM\n\nhttps://t.co/QUa0YgXCm0",
+      "ko": "2027 JICAHNGMIN FANMEETING <四季：For Season> in TOKYO\n\nಇ ＼ ⊹₊⟡⋆ W회원 선예매 시작 ⊹₊⟡⋆ ／ಇ\n\nW회원 선예매가 시작되었습니다!\n응모 기간: 11월 26일 (목) 23:59까지\n\n📅 2027년 1월 16일 (토)\n📍 TFT HALL 1000\n1부 개장 13:00 / 공연 시작 14:00\n2부 개장 17:00 / 공연 시작 18:00\n\n🐿️ 자세한 내용은 여기서 확인하세요.\nhttps://t.co/QUa0YgXCm0"
+    },
+    "link": "https://x.com/THEBOYZJAPAN/status/2124790062462431259"
   }
 ];
