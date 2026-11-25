@@ -3578,5 +3578,28 @@ window.SCHEDULE_EVENTS=[
       "ko": "러브 와이파이 궁 프리미어 무대인사"
     },
     "link": "https://cgv.co.kr/evt/eventDetail?evntNo=202611171931"
+  },
+  {
+    "id": "2026-11-24-wifi-love-in-the-palace-press-screening",
+    "title": {
+      "en": "'WiFi Love in the Palace' Press Screening",
+      "ko": "'러브 와이파이 궁' 언론시사회"
+    },
+    "date": "2026-11-24",
+    "time": "",
+    "endTime": "",
+    "members": [
+      "younghoon"
+    ],
+    "types": [
+      "other"
+    ],
+    "thumbnail": "assets/events/2026-11-24-wifi-love-in-the-palace-press-screening.jpg",
+    "location": "용산구 CGV",
+    "description": {
+      "en": "The press screening for the film 'Wifi Love in the Palace' was held on the afternoon of the 24th at CGV Yongsan I'Park Mall in Yongsan-gu, Seoul.\n\nTHE BOYZ's Younghoon and WJSN's Luda, who attended the press screening, are answering questions.",
+      "ko": "영화 '러브 와이파이 궁' 언론시사회가 24일 오후 서울 용산구 CGV 아이파크몰점에서 열렸다.\n\n이날 언론시사회에 참여한 더보이즈 영훈, 우주소녀 이루다가 질문에 답하고 있다."
+    },
+    "link": "https://www.youtube.com/watch?v=fPI01FX0vzc"
   }
 ];
